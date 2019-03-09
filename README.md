@@ -1,8 +1,8 @@
 `WooW master (3.3.5)`[![Build Status](https://travis-ci.org/Abd-ulRahman/WooW.svg?branch=master)](https://travis-ci.org/Abd-ulRahman/WooW)
 ===
-<a href="https://scan.coverity.com/projects/abd-ulrahman-WooW">
+<a href="https://scan.coverity.com/projects/abd-ulrahman-woow">
   <img alt="Coverity Scan Build Status"
-       src="https://scan.coverity.com/projects/4924/badge.svg"/>
+       src="https://scan.coverity.com/projects/4945/badge.svg"/>
 </a>
 
 The latest version of our software can be found on our public source GitHub repository 
