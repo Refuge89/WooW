@@ -1,0 +1,30 @@
+.quest lookup 
+.quest start 12701
+
+If Chaos Drives, Let Suffering Hold The Reins
+12678
+.quest complete 12678
+
+Grand Theft Palomino
+12680
+.quest complete 12680
+
+Into the Realm of Shadows
+12687
+.quest complete 12687
+
+Death's Challenge
+12733
+.quest complete 12733
+
+The Gift That Keeps On Giving
+12698
+.quest complete 12698
+
+Massacre At Light's Point
+12701
+.quest complete 12701
+
+Tonight We Dine In Havenshire
+12679
+.quest complete 12679

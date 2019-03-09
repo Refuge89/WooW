@@ -1,0 +1,2480 @@
+890000		Dark Bush  
+890001		Black Temple Door 
+890002		Red Crystal 
+890003		Red Powercore 
+890004		Moving Cube 
+890005		Monolith 
+890006		Human Wagon 
+890007		Grass 
+890008		Peace Bloom 
+890009		Glowing Mushrooms 
+890010		Miniture Palm Tree 
+890011		Silver Leaf 
+890012		Snake Bloom 
+890013		Root 
+890014		Star Dust Bush 
+890015		Steel Bloom 
+890016		Yellow Flowers 
+890017		Thorn Root 
+890018		Purple Flowers 
+890019		Black Flower 
+890020		Blue Flowers 
+890021		Red Flowers 
+890022		Crown Royal 
+890023		White Flower 
+890024		Fade leaf 
+890025		Fel Weed 
+890026		Fire Bloom 
+890027		Flaming Flowers 
+890028		Gravemoss 
+890029		Ice cap 
+890030		Life Root 
+890031		Bloody Cage 
+890032		WOTLK Banner 
+890033		Hanging Body 
+890034		Cauldron 
+890035		Brazier Purple 
+890036		Brazier Green 
+890037		Brazier Orange 
+890038		Crystal Ball 
+890039		Skeleton in a jar 
+890040		Spider Door 
+890041		Skull Furnace 
+890042		Skull Gate 
+890043		Skull Anvil 
+890044		Skull Throne 
+890045		Badlands Symbol 
+890046		DarkIron Forge 
+890047		Arena Banner 
+890048		DarkIron Safe 
+890049		Gem on Pillow 
+890050		IF Coal 
+890051		Platinum Disk 
+890052		Small BlackHole 
+890053		Large Human Tent 
+890054		Fishing Chair 
+890055		Orc Bench 
+890056		Emerald Dream Catcher 
+890057		Emerald Dream Catcher 
+890058		Emerald Dream Catcher 
+890059		Emerald Dream Flower 
+890060		Emerald Dream Fountain Tree 
+890061		Emerald Dream Purple Flower 
+890062		Emerald Dream Flower 
+890063		Emerald Dream Drooping Flower 
+890064		Emerald Dream Spinning Flower 
+890065		Emerald Dream Fountain Tree 
+890066		Emerald Dream Fountain Tree 
+890067		Emerald Dream Fountain Tree 
+890068		Paladin Shrine 
+890069		Meat Wagon 
+890070		Undead Elevator 
+890071		Under City Monster Birth 
+890072		Under City Worm 
+890073		Gnome Machine 
+890074		Spot Light 
+890075		Hazard Light 
+890076		Gnome Machine 
+890077		Gnome Machine 
+890078		Gnome Machine 
+890079		Zeplin 
+890080		Bed 
+890081		Pillow 
+890082		Subway Car 
+890083		Red Hazordous Light 
+890084		Stormwind Mage portal 
+890085		Altar 
+890086		Carnival Cannon 
+890087		Carnival Cannon Target 
+890088		Carnival Speaker Stand 
+890089		Cracked Ice 
+890090		Coffin 
+890091		Draenei Spirit 
+890092		Floating skull 
+890093		Necropolis 
+890094		Witch hat 
+890095		Candel 
+890096		Dog House 
+890097		Drapes 
+890098		Gryphon Roost 
+890099		Gypsy Wagon 
+890100		Uther Statue 
+890101		Redridge Chapel 
+890102		Lumber Mill 
+890103		Burnt House 
+890104		Duskwood House 
+890105		Terokkar Tree (Large) 
+890106		Druid Tower 
+890107		Human House 
+890108		Zep Tower 
+890109		Giant Totem 
+890110		BT gates Solid 
+890111		Blade Thrower 
+890112		Landing pad 
+890113		Hourglass 
+890114		Prison Gate 
+890115		Westfall tree 
+890116		Human Tank 
+890117		God Altar 
+890118		Stormwind 
+890119		Emerald dream Tree 
+890120		Warcraft Dark Portal 
+890121		Orc Barracks 
+890122		NE Ship 
+890123		Zeppelin 
+890124		Bamboo Holding pen 
+890125		Orc Tower 
+890126		Guard Tower 
+890127		Moonwell 
+890128		Ship 
+890129		Elves Dock 
+890130		Pirate Ship 
+890131		Stone 
+890132		Big tower 
+890133		Bridge 
+890134		banner 
+890135		Statue 
+890136		Crafter 
+890137		Sign 
+890138		Bigpole 
+890139		bed 
+890140		Lamppost 
+890141		Statue 
+890142		Statupriest 
+890143		statueuther 
+890144		duelflag 
+890145		gallows 
+890146		Gold 
+890147		baby 
+890148		Catapult 
+890149		Goodbanner 
+890150		bannergood 
+890151		tent 
+890152		bigbanner 
+890153		Watchportal 
+890154		Watch tower 
+890155		Clanabanner 
+890156		fence 
+890157		Catapult - FLY FLY!  
+890158		ROCKET BOTTLE  
+890159		Fire Flies 
+890160		Icy Rune 
+890161		Illidan Crystal 
+890162		Blanket Grill 
+890163		Blue Orc Blazier 
+890164		conjuretable 
+890165		G_Krusk Spear 
+890166		Human Male 
+890167		Beerfest Beer Vendor 
+890168		Alliance Weapon Crate 
+890169		Argent Dawn Banner 
+890170		Floating Tree 
+890171		Floating Tree 
+890172		Frostwyrm Birth 
+890173		Mummy Troll 
+890174		Uther Statue 
+890175		FelOrc Banner 
+890176		Pentagram Dirt 
+890177		Lava Rock 
+890178		Lava Rock 
+890179		Lava Rock 
+890180		Lava Rock 
+890181		Lava Rock 
+890182		Lava Rock 
+890183		Warlock Shrine 
+890184		Spike 
+890185		Lava Sink 
+890186		Inn Bench
+890187		Iron Gate 
+890188		Human Baby 
+890189		Gnome Baby 
+890190		Taurren Baby 
+890191		Troll Baby 
+890192		Lumber Mill 
+890193		Night Elf Baby 
+890194		Redridge Chapel 
+890195		Dwarf Baby 
+890196		Orc Baby 
+890197		Gallows 
+890198		Valentines Blanket 
+890199		Valentines Crate 
+890200		Chest  
+890201		Centaur Tent 
+890202		TNT Wagon 
+890203		Goblin Shreedder 
+890204		Cracked Ice 
+890205		Alter 
+890206		Light!! 
+890207		Green Portal 
+890208		Mage Portal Stormwind 
+890209		ogrebannertiger 
+890210		Night Elf Dresser 
+890211		Druid Bed 
+890212		Bunkbed Bed 
+890213		Cannon 
+890214		Undead Fire 
+890215		Arch Gate 
+890216		Wagon 
+890217		Smelting Weapons 
+890218		Farm 
+890219		Xmas Lights 
+890220		Throne
+890221		Dresser 
+890222		Bone Dam 
+890223		Water Fall 
+890224		Ghostlands Moonstone 
+890225		Skull 
+890226		Flies 
+890227		Murloc Alter 
+890228		Pearl 
+890229		Fossle 
+890230		Fishing Chair 
+890231		WSG Orc Gate 
+890232		Pirate Flag 
+890233		Wanted Poster 
+890234		Wanted Poster  
+890235		Stormwind 
+890236		Emerald dream Tree 
+890237		Tree 
+890238		Emerald Dream Catcher 
+890239		Emerald Dream Catcher  
+890240		Orc Blade Thrower 
+890241		Floating Rubble 
+890242		Shroom 
+890243		Outland Plant  
+890244		Outland Rubble 
+890245		Arathi Tree 
+890246		Alterac Open Grave 
+890247		Plageland Cage 
+890248		Hanging Body 
+890249		Hanging Body  
+890250		Plague Cauldron 
+890251		Crystal Ball 
+890252		Nox Anvil 
+890253		Alter of Souls 
+890254		Shake Box! 
+890255		Cave In 
+890256		Animal Crate 
+890257		Ballista 
+890258		Flying Machine 
+890259		Trap 
+890260		Goblin Teleporter 
+890261		Grave Burst 
+890262		Light Well 
+890263		Ice Block 
+890264		Ice Block 
+890265		Mana Rift 
+890266		Necropolis 
+890267		Spirit Totem 
+890268		Well of Souls 
+890269		Sea Weed 
+890270		Sheild 
+890271		Duel Flag 
+890272		Inn Dobble Bed 
+890273		Webs 
+890274		Exodor INN Sign 
+890275		Kael Statue 
+890276		Stable 
+890277		Pumpkin Patch 
+890278		Light HouseLight 
+890279		COT_DARKPORTALPARTICLES 
+890280		INN Pillow 
+890281		Xmas Tree 
+890282		Serpent Altar 
+890283		Demon Glow 
+890284		Holding Pen 
+890285		Apple Bowl 
+890286		Mailbox 
+890287		Beer Keg 
+890288		Red Crystal 
+890289		Voodoo Drum 
+890290		Beerfest Wagon 
+890291		Tauren Log Chair 
+890292		Under Construction Sign 
+890293		Gnome Pipe 
+890294		Blanket Umbrella 
+890295		Skleton Laying  
+890296		Skleton Laying  
+890297		Skleton Laying  
+890298		Paladin_Shrine
+890299		Cracked_ice
+890300		g_conjuretable
+890301		g_GhostTrap
+890302		g_stonesofbinding
+890303		MagtheridonTrophyPost
+890304		winterspringaltar
+890305		DragonBonesSkull
+890306		StoneKeeperAltar
+890307		painting
+890308		BrambleStaff
+890309		HammerQuest
+890310		MargolReaverHorn
+890311		HotCoals
+890312		IronForgeSteamTank
+890313		BlackRockSeal
+890314		BlackRockAltarRitual
+890315		BlackRockDoors
+890316		PlagueCauldron
+890317		BloodOfHeroes
+890318		Final_Stage
+890319		GoldPileLarge
+890320		TestBall
+890321		SummerFest_MayPole
+890322		ShamanStone
+890323		Runestone
+890324		FlameCircle
+890325		g_ScourgeRuneCircleCrystal
+890326		NEShrineSatyr
+890327		CentaurTeleporter
+890328		MaraudonStaffCreator
+890329		UngoroCrystalPylon
+890330		UngoroCrystalBlue
+890331		UngoroCrystalBlue
+890332		UngoroCrystalGreen
+890333		UngoroCrystalGreen
+890334		UngoroCrystalRed
+890335		UngoroCrystalRed
+890336		UngoroCrystalYellow
+890337		UngoroCrystalYellow
+890338		Kelthuzad_Throne
+890339		Kelthuzad_Window_Portal
+890340		Nox_Anvil
+890341		Hellfire_DarkPortal_fx
+890342		et_Lamppost
+890343		dr_Knickknack_b
+890344		Draenei_spirit_Red
+890345		Auchindoun_Bridge_FX
+890346		Auchindoun_Bridge_Spirits_Flying
+890347		be_ArcaneBomb
+890348		be_ArcaneBomb_Orb
+890349		g_ritualofdoom
+890350		g_necropolis
+890351		ThousandNeedlesBridge
+890352		BabyGnome
+890353		BabyDwarf
+890354		BabyHuman
+890355		BabyNightElf
+890356		BabyTauren
+890357		BabyTroll
+890358		AerieTree
+890359		NEMagicImplement
+890360		Karazhan_Observe_Door
+890361		Altartidalmastery
+890362		Hellfirecrystalformation
+890363		Chromatic_Crystral_Formation
+890364		Chromatic_Crystral_Formation
+890365		dr_brazier
+890366		KarazahnOwlStatue
+890367		Zulaman_Firedoor
+890368		Zulaman_Winddoor
+890369		g_ManaRift
+890370		EmeraldDreamCatcher
+890371		EmeraldDreamFountainTree
+890372		EmeraldDreamCatcher
+890373		EmeraldDreamCatcher
+890374		StatueHMPriest
+890375		BFDStatueNagaPriestess
+890376		StatueHMPaladin
+890377		DireMaulStoneBearStatue
+890378		DireMaulStoneDeerStatue
+890379		DireMaulStoneOwlStatue
+890380		g_FlareAlliance
+890381		g_FlareHorde
+890382		AirRift
+890383		FireRift
+890384		WaterRift
+890385		Tradeskill_FishSchool_
+890386		GreenGroundFog
+890387		UnderConstruction
+890388		LandingPad
+890389		GiantSeaTurtle
+890390		GiantSeaTurtle
+890391		DSNightElfMoonWellOrnate
+890392		TrollWatchTower
+890393		CrystallizedTroll
+890394		CrystallizedHuman
+890395		SerpentAltar
+890396		Frostwyrm_Waterfall
+890397		BigBridgeWhite
+890398		WestFallHumanFarm
+890399		ManArmyGeneral
+890400		OrcZeppelinHouse
+890401		TerrokarTreeMicro
+890402		KaelthasStatue
+890403		cot_portalparticles
+890404		COT_Portal
+890405		GnomeMachine (Laboratory imo.)
+890406		GMChairLOEND (The Chair)
+890407		SubwayCar
+890408		UndercityWorm
+890409		CollisionWallPvPTextured
+890410		PvP_Rune_Speed_Icon
+890411		RazorfenForceField
+890412		BE_LanternRed
+890413		GiantClamActive
+890414		UldamanDoor
+890415		HumanMaleScale
+890416		StormwindMagePortal
+890417		DuskwoodMausoleum
+890418		Tombstonemonument
+890419		Distillery
+890420		EyeOfSeethe (Azora)
+890421		Waterbasin
+890422		Cage
+890423		Cage
+890424		Cage
+890425		NEShrine
+890426		SkullSpear
+890427		ENCHAIR
+890428		ENCHAIR
+890429		g_GnomeMultiBox
+890430		FelwoodMushroom
+890431		g_GnomeTerminal
+890432		StranglethornWaterfall
+890433		SerpentStatue
+890434		TrollShrine
+890435		StranglethornTikiHead
+890438		HoldingPenBamboo
+890437		TrollRuinsGong
+890439		StranglethornPlant
+890440		StranglethornPlant
+890441		StranglethornPlant
+890442		StranglethornPlant
+890443		CharredBody
+890444		CharredBody
+890445		Hologram_VoidWalker
+890446		TerokkarCrystal
+890447		NS_Biodome_Generic
+890448		ET_Cage
+890449		HumanWagon
+890450		LighthouseEffect
+890451		Karazhan_RedRidingHood_House
+890452		DuskwoodDarmHouseBurnt
+890453		GriffonAviary
+890454		FlamingPumpkinHead
+890455		Chapel
+890456		DuskwoodChapel
+890457		FishingChair
+890458		GiantTotem
+890459		MoleMachine
+890460		ShoutBawx_Generix
+890461		Ragdoll_
+890462		Ragdoll_
+890463		Ragdoll_
+890464		Radgoll_
+890465		BlastedLandsLightningBolt
+890466		AuraGreen
+890467		DrumGiant
+890468		SmallPortcullis
+890469		LargePortcullis
+890470		Ziggurat Door
+890471		WarchiefRendsHead
+890472		Temporal_Displacement
+890473		g_BellShip
+890474		GlowingOgreHead
+890475		LichContainer
+890476		Exodar_Narucore_FX
+890477		Exodar_PaladinShrine_EnergyFX
+890478		Exodar_Sky_Portal
+890479		Crystal_Corrupted
+890480		TK_Factory_Door
+890481		Shattrath_Naaru_Energy_FX
+890482		TK_ArcaneDoor_VERT
+890483		TK_ArcaneDoor_Horiz
+890484		TK_Raid_Windows_Tall
+890485		TK_RaidDoor
+890486		CollectorTubesStraightState
+890487		SkeletonSitting
+890488		SkeletonSitting
+890489		SkeletonSitting
+890490		SkeletonLaying
+890491		SkeletonSitting\
+890492		SkeletonInAJar
+890493		LightSkeletonSitting
+890494		LightSkeletonSitting
+890495		LightSkeletonSitting
+890496		LightSkeletonLaying
+890497		LightSkeletonLaying
+890498		WailingDruidBed
+890499		WC_BedStone
+890500		COT_LightshaftA
+890501		AerieBoulder
+890502		BT_CommonDoor
+890503		BT_Gate
+890504		MoonWellWaterFX
+890505		BT_IllidanDoor
+890506		WarcraftDarkPortal
+890507		DragonKinNest
+890508		DragonKinNest
+890509		DragonKinNest
+890510		DragonEgg
+890511		EagleThrone
+890512		GoblinShredderSuit
+890513		LavaSmokeEmitterB
+890514		GoblinHutBottles
+890515		GoblinMachinery
+890516		GoblinTent
+890517		GoblinWagonTNT_
+890518		GuildVault_Goblin_
+890519		GuildVault_BloodElf
+890520		GuildVault_Undercity
+890521		GuildVault_Human
+890522		GuildVault_Dwarf
+890523		GuildVault_Orc
+890524		GuildVault_NightElf
+890525		GuildVault_Tauren
+890526		RazorFenLeanto
+890527		WarlockShrine
+890528		TaurenSack
+890529		NetherStorm_Particles
+890530		WaterPump
+890531		G_Watermelon
+890532		WaterBasin
+890533		WaterTroughSmall
+890534		GenericSeaWeed
+890535		GenericSeaWeed
+890536		ElwynnMushroom
+890537		StormwindRug
+890538		ElwynnFlower
+890539		NightElfRuins
+890540		DruidWisp
+890541		ArathiRock
+890542		Haystack
+890543		ElvenPottery
+890544		ElvenPotter
+890545		Thornroot
+890546		SwiftThistle
+890547		Magebloom
+890548		FirewoodPile
+890549		Barrel
+890550		TrollSkullPile
+890551		Gallows
+890552		ElwynnMineCart
+890553		G_LeverMetal
+890554		Jar
+890555		ElwynnRock
+890556		DuskWoodCatails
+890557		LargeFirePit
+890558		DeadMineValveSteam
+890559		DeadminesValveSteam
+890560		BlackSmithForge
+890561		GoblinControlPanel
+890562		G_GnomeTerminal
+890563		G_EpicBrazierYellow
+890564		G_EpicBrazierBlue
+890565		AremaFlag
+891566		IllidanCrystal
+891567		LanternBlue
+891568		Hive_Fireflies
+891569		G_HolyLightWell
+891570		NoxDoor_Abom_Mini
+891571		AQ_Mummy
+891572		Spring
+891573		FloatingBoards
+891574		BrokenGateWood
+891575		Furnace_Skull
+891576		BlastedLandsSpine
+891577		Nox_Door_Web_large
+891578		AlteracShrub
+891579		OrcBarracks
+891580		DR_Lampost_
+891581		BU_Felreaver
+891582		Hellfire_FireParticle
+891583		BattleGladeShield
+891584		BubblingBowl
+891585		GnomeSteelPlate
+891586		CF_ElevatorPlatform
+891587		GunShopTarget
+891588		GunTargetStand
+891589		GunTargetDwarf
+891590		Karazhan_BrickRoad
+891591		Karazhan_RJ_Stars
+891592		AK_Scarecrow
+891593		EPL_PvP_Flags_NorthFort
+891594		Bush_FlameCap
+891595		TerrokarPineCone
+891596		DR_Fountain_Ruined
+891597		TaurenRug
+891598		StranglethornPlant
+		
+899871		Spike 
+899870		Lava Sink 
+899869		Inn Bench  
+899868		Iron Gate 
+899867		Human Baby 
+899866		Gnome Baby 
+899865		Taurren Baby 
+899864		Troll Baby 
+899898		Lumber Mill 
+899863		Night Elf Baby 
+899899		Redridge Chapel 
+899862		Dwarf Baby 
+899861		Orc Baby 
+899860		Gallows 
+899859		Valentines Blanket 
+899858		Valentines Crate 
+899857		Chest  
+899856		Centaur Tent 
+899855		TNT Wagon 
+899854		Goblin Shreedder 
+899997		Cracked Ice 
+899996		Alter 
+899995		Light!! 
+899994		Green Portal 
+899993		Mage Portal Stormwind 
+899992		ogrebannertiger 
+899991		Night Elf Dresser 
+899990		Druid Bed 
+899989		Bunkbed Bed 
+899988		Cannon 
+899987		Undead Fire 
+899986		Arch Gate 
+899984		Wagon 
+899983		Smelting Weapons 
+899982		Farm 
+899981		Xmas Lights 
+899980		Throne  
+899979		Dresser 
+899978		Bone Dam 
+899977		Water Fall 
+899976		Ghostlands Moonstone 
+899975		Skull 
+899974		Flies 
+899973		Murloc Alter 
+899972		Pearl 
+899971		Fossle 
+899970		Fishing Chair 
+899968		WSG Orc Gate 
+899967		Pirate Flag 
+899966		Wanted Poster 
+899965		Wanted Poster  
+899964		Stormwind 
+899963		Emerald dream Tree 
+899962		Tree 
+899961		Emerald Dream Catcher 
+899960		Emerald Dream Catcher  
+899959		Orc Blade Thrower 
+899958		Floating Rubble 
+899957		Shroom 
+899956		Outland Plant  
+899955		Outland Rubble 
+899954		Arathi Tree 
+899953		Alterac Open Grave 
+899952		Plageland Cage 
+899951		Hanging Body 
+899950		Hanging Body  
+899949		Plague Cauldron 
+899948		Crystal Ball 
+899947		Nox Anvil 
+899946		Alter of Souls 
+899945		Shake Box! 
+899944		Cave In 
+899943		Animal Crate 
+899942		Ballista 
+899941		Flying Machine 
+899940		Trap 
+899939		Goblin Teleporter 
+899938		Grave Burst 
+899937		Light Well  
+899936		Ice Block 
+899935		Ice Block 
+899934		Mana Rift 
+899933		Necropolis 
+899932		Spirit Totem 
+899931		Well of Souls 
+899930		Sea Weed 
+899929		Sheild 
+899928		Duel Flag 
+899927		Inn Dobble Bed 
+899926		Webs 
+899924		Exodor INN Sign 
+899923		Kael Statue 
+899922		Stable 
+899921		Pumpkin Patch 
+899920		Light HouseLight 
+899919		COT_DARKPORTALPARTICLES 
+899918		INN Pillow 
+899917		Xmas Tree 
+899916		Serpent Altar 
+899915		Demon Glow 
+899913		Holding Pen 
+899914		Apple Bowl 
+899912		Mailbox 
+899911		Beer Keg 
+899910		Red Crystal 
+899909		Voodoo Drum 
+899908		Beerfest Wagon 
+899907		Tauren Log Chair  
+899906		Under Construction Sign 
+899905		Gnome Pipe 
+899904		Blanket Umbrella 
+899902		Skleton Laying  
+899901		Skleton Laying  
+899900		Skleton Laying  
+899897		Burnt House 
+899896		Duskwood House 
+899895		Terokkar Tree (Large) 
+899894		Druid Tower 
+899893		Human House 
+899892		Zep Tower 
+899891		Giant Totem 
+899890		BT gates Solid 
+899889		Blade Thrower 
+899888		Landing pad 
+899887		Prison Gate 
+899886		Human Tank 
+899885		God Altar 
+899884		Stormwind 
+899883		Emerald dream Tree 
+899882		Warcraft Dark Portal 
+899881		Orc Barracks 
+899880		NE Ship 
+899879		Zeppelin 
+899878		Bamboo Holding pen 
+899877		Orc Tower 
+899876		Guard Tower 
+899875		Moonwell 
+899874		Ship 
+899873		Elves Dock 
+899872		Pirate Ship 
+899853		Fire Flies 
+899852		Icy Rune 
+899851		Illidan Crystal 
+899850		Blanket Grill 
+899849		Blue Orc Blazier 
+899848		conjuretable 
+899847		G_Krusk Spear 
+899846		Human Male 
+899845		Beerfest Beer Vendor 
+899844		Alliance Weapon Crate 
+899843		Argent Dawn Banner 
+899842		Floating Tree 
+899841		Floating Tree 
+899840		Frostwyrm Birth 
+899839		Mummy Troll 
+899838		Uther Statue 
+899837		FelOrc Banner 
+899836		Pentagram Dirt 
+899835		Lava Rock 
+899834		Lava Rock 
+899833		Lava Rock 
+899832		Lava Rock 
+899831		Lava Rock 
+899830		Lava Rock 
+899829		Warlock Shrine 
+8923000		Emerald dream Tree
+8923001		Emerald dream Tree
+8923002		Emerald dream Tree
+8923003		Emerald dream Tree
+8923004		FountainTreeEmerald 
+8923005		FountainTreeEmerald 
+8923006		FountainTreeEmerald 
+8923007		EmeraldDreamFlower 
+8923008		EmeraldDreamFlower 
+8923009		EmeraldDreamFlower 
+8923010		EmeraldDreamFlower 
+8923011		EmeraldDreamFlower 
+8923012		Outland Plant 
+8923013		Westfall tree
+8923014		Tree 
+8923015		STV Flower
+8923016		bush
+8923017		Grass
+8923018		Huge Tree
+8923019		StonePlatform
+8923020		Steam
+8923021		Big Shroom
+8923022		Water Fall
+8923023		Shaman Rock
+8923024		Terokkar Tree (Large)
+8923025		Ghostlands Moonstone
+8923026		Bloodcry
+8923027		Grave
+8923028		Murloc Alter
+8923029		Fishing Chair
+8923030		Floating Rubble
+8923031		Outland Rubble
+8923032		Sweet Throne
+8923033		Dresser
+8923034		Log Bench
+8923035		ZA Entrance
+8923036		be_Baner
+8923037		be_bench
+8923038		Be_Chair
+8923039		be_demon
+8923040		be_forge
+8923041		Be_cryorg
+8923042		be_teleporter
+8923043		dr_holo
+8923044		Big Tank
+8923045		PX- Winter Wondervolt  
+8923046		PX- Winter Wondervolt  
+8923047		Spot Light
+8923048		Lighthouse Beam  
+8923049		WC Dark Portal
+8923050		Moon Stone
+8923051		Illidan Crystal
+8923052		Orc PVP door
+8923053		Naru Core(nonsolid)
+8923054		tk Boss Pod
+8923055		Gnome Mech
+8923056		Subway Cart
+8923057		Goblin Mechinery
+8923058		Gryphon Rooster
+8923059		Love Rockets(Usable)
+8923060		Dreamcatcher 
+8923061		Dreamcatcher 
+8923062		Prison Gate
+8923063		Tauren Hut
+8923064		Nightelf Druid Tower
+8923065		TaurenBigTotemTower
+8923066		Inn Tent
+8923067		Human Tent Medium
+8923068		Human Tent Large
+8923069		Inn
+8923070		Guard Tower
+8923071		Orc Tower
+8923072		Orc Barracks
+8923073		Gold Altar
+8923074		Terrorkar Trees
+8923075		Redridge Chapel
+8923076		Lumber Mill
+8923077		Human House
+8923078		Ship
+8923079		Gold Mine
+8923080		Bamboo Holding pen
+8923081		Zeppelin
+8923082		Landing Pad
+8923083		NE Ship
+8923084		Elves Dock start
+8923085		Elves Dock
+8923086		Human Siege Tower
+8923087		Redridge Stone Bridge
+8923088		Stable
+8923089		LETC Stage
+8923090		LETC Bleachers
+8923091		Moonwell
+8923092		Stormwind
+8923093		TrollWatchTower
+8923094		Human Guard Tower
+8923095		Human Watch Tower
+8923096		Shadow Tent
+8923097		GuardTower_Ruined
+8923098		AQ EntranceHUGE
+8923099		Black CitadelHUGE
+8923100		Naxxramas
+8923101		Monotha
+8923102		Zep Tower
+8923103		Big Bridge
+8923104		GuardTower_Ruined
+8923105		Pirate Ship
+8923106		Ne Shrine
+8923107		Lion Statue
+8923108		Kael StatueHuge
+8923109		Uther Statue
+9934567		Paladin_Shrine
+9934568		Cracked_ice
+9934569		g_conjuretable
+9934570		g_GhostTrap
+9934571		g_stonesofbinding
+9934572		MagtheridonTrophyPost
+9934573		winterspringaltar
+9934574		DragonBonesSkull
+9934575		StoneKeeperAltar
+9934576		painting
+9934577		BrambleStaff
+9934578		HammerQuest
+9934579		MargolReaverHorn
+9934580		HotCoals
+9934581		IronForgeSteamTank
+9934582		BlackRockSeal
+9934583		BlackRockAltarRitual
+9934584		BlackRockDoors
+9934585		PlagueCauldron
+9934586		BloodOfHeroes
+9934587		Final_Stage
+9934588		GoldPileLarge
+9934589		TestBall
+9934590		SummerFest_MayPole
+9934591		ShamanStone
+9934592		Runestone
+9934593		FlameCircle
+9934594		g_ScourgeRuneCircleCrystal
+9934595		NEShrineSatyr
+9934596		CentaurTeleporter
+9934597		MaraudonStaffCreator
+9934598		UngoroCrystalPylon
+9934599		UngoroCrystalBlue
+9934600		UngoroCrystalBlue
+9934601		UngoroCrystalGreen
+9934602		UngoroCrystalGreen
+9934603		UngoroCrystalRed
+9934604		UngoroCrystalRed
+9934605		UngoroCrystalYellow
+9934606		UngoroCrystalYellow
+9934607		Kelthuzad_Throne
+9934608		Kelthuzad_Window_Portal
+9934609		Nox_Anvil
+9934610		Hellfire_DarkPortal_fx
+9934611		et_Lamppost
+9934612		dr_Knickknack_b
+9934613		Draenei_spirit_Red
+9934614		Auchindoun_Bridge_FX
+9934615		Auchindoun_Bridge_Spirits_Flying
+9934616		be_ArcaneBomb
+9934617		be_ArcaneBomb_Orb
+9934618		g_ritualofdoom
+9934619		g_necropolis
+9934620		ThousandNeedlesBridge
+9934621		BabyGnome
+9934622		BabyDwarf
+9934623		BabyHuman
+9934624		BabyNightElf
+9934625		BabyTauren
+9934626		BabyTroll
+9934627		AerieTree
+9934628		NEMagicImplement
+9934629		Karazhan_Observe_Door
+9934630		Altartidalmastery
+9934631		Hellfirecrystalformation
+9934632		Chromatic_Crystral_Formation
+9934633		Chromatic_Crystral_Formation
+9934634		dr_brazier
+9934635		KarazahnOwlStatue
+9934636		Zulaman_Firedoor
+9934637		Zulaman_Winddoor
+9934638		g_ManaRift
+9934639		EmeraldDreamCatcher
+9934640		EmeraldDreamFountainTree
+9934641		EmeraldDreamCatcher
+9934642		EmeraldDreamCatcher
+9934643		StatueHMPriest
+9934644		BFDStatueNagaPriestess
+9934645		StatueHMPaladin
+9934646		DireMaulStoneBearStatue
+9934647		DireMaulStoneDeerStatue
+9934648		DireMaulStoneOwlStatue
+9934649		g_FlareAlliance
+9934650		g_FlareHorde
+9934651		AirRift
+9934652		FireRift
+9934653		WaterRift
+9934654		Tradeskill_FishSchool_
+9934655		GreenGroundFog
+9934656		UnderConstruction
+9934657		LandingPad
+9934658		GiantSeaTurtle
+9934659		GiantSeaTurtle
+9934660		DSNightElfMoonWellOrnate
+9934661		TrollWatchTower
+9934662		CrystallizedTroll
+9934663		CrystallizedHuman
+9934664		SerpentAltar
+9934665		Frostwyrm_Waterfall
+9934666		BigBridgeWhite
+9934667		WestFallHumanFarm
+9934668		ManArmyGeneral
+9934669		OrcZeppelinHouse
+9934670		TerrokarTreeMicro
+9934671		KaelthasStatue
+9934672		cot_portalparticles
+9934673		COT_Portal
+9934674		GnomeMachine (Laboratory imo.)
+9934675		GMChairLOEND (The Chair)
+9934676		SubwayCar
+9934677		UndercityWorm
+9934678		CollisionWallPvPTextured
+9934679		PvP_Rune_Speed_Icon
+9934680		RazorfenForceField
+9934681		BE_LanternRed
+9934682		GiantClamActive
+9934683		UldamanDoor
+9934684		HumanMaleScale
+9934685		StormwindMagePortal
+9934686		DuskwoodMausoleum
+9934687		Tombstonemonument
+9934688		Distillery
+9934689		EyeOfSeethe (Azora)
+9934690		Waterbasin
+9934691		Cage
+9934692		Cage
+9934693		Cage
+9934694		NEShrine
+9934695		SkullSpear
+9934696		ENCHAIR
+9934697		ENCHAIR
+9934698		g_GnomeMultiBox
+9934699		FelwoodMushroom
+9934700		g_GnomeTerminal
+9934701		StranglethornWaterfall
+9934702		SerpentStatue
+9934703		TrollShrine
+9934704		StranglethornTikiHead
+9934705		HoldingPenBamboo
+9934706		TrollRuinsGong
+9934707		StranglethornPlant
+9934708		StranglethornPlant
+9934709		StranglethornPlant
+9934710		StranglethornPlant
+9934711		StranglethornPlant
+9934712		CharredBody
+9934713		CharredBody
+9934714		Hologram_VoidWalker
+9934715		TerokkarCrystal
+9934716		NS_Biodome_Generic
+9934717		ET_Cage
+9934718		HumanWagon
+9934719		LighthouseEffect
+9934720		Karazhan_RedRidingHood_House
+9934721		DuskwoodDarmHouseBurnt
+9934722		GriffonAviary
+9934723		FlamingPumpkinHead
+9934724		Chapel
+9934725		DuskwoodChapel
+9934726		FishingChair
+9934727		GiantTotem
+9934728		MoleMachine
+9934729		ShoutBawx_Generix
+9934730		Ragdoll_
+9934731		Ragdoll_
+9934732		Ragdoll_
+9934733		Radgoll_
+9934734		BlastedLandsLightningBolt
+9934735		AuraGreen
+9934736		DrumGiant
+9934737		SmallPortcullis
+9934738		LargePortcullis
+9934739		Ziggurat Door
+9934740		WarchiefRendsHead
+9934742		Temporal_Displacement
+9934743		g_BellShip
+9934744		GlowingOgreHead
+9934745		LichContainer
+9934746		Exodar_Narucore_FX
+9934747		Exodar_PaladinShrine_EnergyFX
+9934748		Exodar_Sky_Portal
+9934749		Crystal_Corrupted
+9934750		TK_Factory_Door
+9934751		Shattrath_Naaru_Energy_FX
+9934752		TK_ArcaneDoor_VERT
+9934753		TK_ArcaneDoor_Horiz
+9934754		TK_Raid_Windows_Tall
+9934755		TK_RaidDoor
+9934756		CollectorTubesStraightState
+9934757		SkeletonSitting
+9934758		SkeletonSitting
+9934759		SkeletonSitting
+9934760		SkeletonLaying
+9934761		SkeletonSitting\
+9934762		SkeletonInAJar
+9934763		LightSkeletonSitting
+9934764		LightSkeletonSitting
+9934765		LightSkeletonSitting
+9934766		LightSkeletonLaying
+9934767		LightSkeletonLaying
+9934768		WailingDruidBed
+9934769		WC_BedStone
+9934770		COT_LightshaftA
+9934771		AerieBoulder
+9934772		BT_CommonDoor
+9934773		BT_Gate
+9934774		MoonWellWaterFX
+9934775		BT_IllidanDoor
+9934776		WarcraftDarkPortal
+9934777		DragonKinNest
+9934778		DragonKinNest
+9934779		DragonKinNest
+9934780		DragonEgg
+9934781		EagleThrone
+9934782		GoblinShredderSuit
+9934783		LavaSmokeEmitterB
+9934784		GoblinHutBottles
+9934785		GoblinMachinery
+9934786		GoblinTent
+9934787		GoblinWagonTNT_
+9934788		GuildVault_Goblin_
+9934789		GuildVault_BloodElf
+9934790		GuildVault_Undercity
+9934791		GuildVault_Human
+9934792		GuildVault_Dwarf
+9934793		GuildVault_Orc
+9934794		GuildVault_NightElf
+9934795		GuildVault_Tauren
+9934796		RazorFenLeanto
+9934797		WarlockShrine
+9934798		TaurenSack
+9934799		NetherStorm_Particles
+9934800		WaterPump
+9934801		G_Watermelon
+9934802		WaterBasin
+9934803		WaterTroughSmall
+9934804		GenericSeaWeed
+9934805		GenericSeaWeed
+9934806		ElwynnMushroom
+9934807		StormwindRug
+9934808		ElwynnFlower
+9934809		NightElfRuins
+9934810		DruidWisp
+9934811		ArathiRock
+9934812		Haystack
+9934813		ElvenPottery
+9934814		ElvenPotter
+9934815		Thornroot
+9934816		SwiftThistle
+9934817		Magebloom
+9934818		FirewoodPile
+9934819		Barrel
+9934820		TrollSkullPile
+9934821		Gallows
+9934822		ElwynnMineCart
+9934823		G_LeverMetal
+9934824		Jar
+9934825		ElwynnRock
+9934826		DuskWoodCatails
+9934827		LargeFirePit
+9934828		DeadMineValveSteam
+9934829		DeadminesValveSteam
+9934830		BlackSmithForge
+9934831		GoblinControlPanel
+9934832		G_GnomeTerminal
+9934833		G_EpicBrazierYellow
+9934834		G_EpicBrazierBlue
+9934835		AremaFlag
+9934836		IllidanCrystal
+9934837		LanternBlue
+9934838		Hive_Fireflies
+9934839		G_HolyLightWell
+9934840		NoxDoor_Abom_Mini
+9934841		AQ_Mummy
+9934842		Spring
+9934843		FloatingBoards
+9934844		BrokenGateWood
+9934845		Furnace_Skull
+9934846		BlastedLandsSpine
+9934847		Nox_Door_Web_large
+9934848		AlteracShrub
+9934849		OrcBarracks
+9934850		DR_Lampost_
+9934851		BU_Felreaver
+9934852		Hellfire_FireParticle
+9934853		BattleGladeShield
+9934854		BubblingBowl
+9934855		GnomeSteelPlate
+9934856		CF_ElevatorPlatform
+9934857		GunShopTarget
+9934858		GunTargetStand
+9934859		GunTargetDwarf
+9934860		Karazhan_BrickRoad
+9934861		Karazhan_RJ_Stars
+9934862		AK_Scarecrow
+9934863		EPL_PvP_Flags_NorthFort
+9934864		Bush_FlameCap
+9934865		TerrokarPineCone
+9934866		DR_Fountain_Ruined
+9934867		TaurenRug
+9870000		Dark Bush 
+9870001		Black Temple Door 
+9870002		Red Crystal 
+9870003		Red Powercore 
+9870004		Moving Cube 
+9870005		Monolith 
+9870006		Human Wagon 
+9870007		Grass 
+9870008		Peace Bloom 
+9870009		Glowing Mushrooms 
+9870010		Miniture Palm Tree 
+9870011		Silver Leaf 
+9870012		Snake Bloom 
+9870013		Root 
+9870014		Star Dust Bush 
+9870015		Steel Bloom 
+9870016		Yellow Flowers 
+9870017		Thorn Root 
+9870018		Purple Flowers 
+9870019		Black Flower 
+9870020		Blue Flowers 
+9870021		Red Flowers 
+9870022		Crown Royal 
+9870023		White Flower 
+9870024		Fade leaf 
+9870025		Fel Weed 
+9870026		Fire Bloom 
+9870027		Flaming Flowers 
+9870028		Gravemoss 
+9870029		Ice cap 
+9870030		Life Root 
+9870031		Bloody Cage 
+9870032		WOTLK Banner 
+9870033		Hanging Body 
+9870034		Cauldron 
+9870035		Brazier Purple 
+9870036		Brazier Green 
+9870037		Brazier Orange 
+9870038		Crystal Ball 
+9870039		Skeleton in a jar 
+9870040		Spider Door 
+9870041		Skull Furnace 
+9870042		Skull Gate 
+9870043		Skull Anvil 
+9870044		Skull Throne 
+9870045		Badlands Symbol 
+9870046		DarkIron Forge 
+9870047		Arena Banner 
+9870048		DarkIron Safe 
+9870049		Gem on Pillow 
+9870050		IF Coal 
+9870051		Platinum Disk 
+9870052		Small BlackHole 
+9870053		Large Human Tent 
+9870054		Fishing Chair 
+9870055		Orc Bench 
+9870056		Emerald Dream Catcher 
+9870057		Emerald Dream Catcher 
+9870058		Emerald Dream Catcher 
+9870059		Emerald Dream Flower 
+9870060		Emerald Dream Fountain Tree 
+9870061		Emerald Dream Purple Flower 
+9870062		Emerald Dream Flower 
+9870063		Emerald Dream Drooping Flower 
+9870064		Emerald Dream Spinning Flower 
+9870065		Emerald Dream Fountain Tree 
+9870066		Emerald Dream Fountain Tree 
+9870067		Emerald Dream Fountain Tree 
+9870068		Paladin Shrine 
+9870069		Meat Wagon 
+9870070		Undead Elevator 
+9870071		Under City Monster Birth 
+9870072		Under City Worm 
+9870073		Gnome Machine 
+9870074		Spot Light 
+9870075		Hazard Light 
+9870076		Gnome Machine 
+9870077		Gnome Machine 
+9870078		Gnome Machine 
+9870079		Zeplin 
+9870080		Bed 
+9870081		Pillow 
+9870082		Subway Car 
+9870083		Red Hazordous Light 
+9870084		Stormwind Mage portal 
+9870085		Altar 
+9870086		Carnival Cannon 
+9870087		Carnival Cannon Target 
+9870088		Carnival Speaker Stand 
+9870089		Cracked Ice 
+9870090		Coffin 
+9870091		Draenei Spirit 
+9870092		Floating skull 
+9870093		Necropolis 
+9870094		Witch hat 
+9870095		Candel 
+9870096		Dog House 
+9870097		Drapes 
+9870098		Gryphon Roost 
+9870099		Gypsy Wagon 
+9870100		Uther Statue 
+9870101		Redridge Chapel 
+9870102		Lumber Mill 
+9870103		Burnt House 
+9870104		Duskwood House 
+9870105		Terokkar Tree (Large) 
+9870106		Druid Tower 
+9870107		Human House 
+9870108		Zep Tower 
+9870109		Giant Totem 
+9870110		BT gates Solid 
+9870111		Blade Thrower 
+9870112		Landing pad 
+9870113		Hourglass 
+9870114		Prison Gate 
+9870115		Westfall tree 
+9870116		Human Tank 
+9870117		God Altar 
+9870118		Stormwind 
+9870119		Emerald dream Tree 
+9870120		Warcraft Dark Portal 
+9870121		Orc Barracks 
+9870122		NE Ship 
+9870123		Zeppelin 
+9870124		Bamboo Holding pen 
+9870125		Orc Tower 
+9870126		Guard Tower 
+9870127		Moonwell 
+9870128		Ship 
+9870129		Elves Dock 
+9870130		Pirate Ship 
+9870131		Stone 
+9870132		Big tower 
+9870133		Bridge 
+9870134		banner 
+9870135		Statue 
+9870136		Crafter 
+9870137		Sign 
+9870138		Bigpole 
+9870139		bed 
+9870140		Lamppost 
+9870141		Statue 
+9870142		Statupriest 
+9870143		statueuther 
+9870144		duelflag 
+9870145		gallows 
+9870146		Gold 
+9870147		baby 
+9870148		Catapult 
+9870149		Goodbanner 
+9870150		bannergood 
+9870151		tent 
+9870152		bigbanner 
+9870153		Watchportal 
+9870154		Watch tower 
+9870155		Clanabanner 
+9870156		fence 
+9870157		Catapult - FLY FLY!  
+9870158		ROCKET BOTTLE  
+9870159		Fire Flies 
+9870160		Icy Rune 
+9870161		Illidan Crystal 
+9870162		Blanket Grill 
+9870163		Blue Orc Blazier 
+9870164		conjuretable 
+9870165		G_Krusk Spear 
+9870166		Human Male 
+9870167		Beerfest Beer Vendor 
+9870168		Alliance Weapon Crate 
+9870169		Argent Dawn Banner 
+9870170		Floating Tree 
+9870171		Floating Tree 
+9870172		Frostwyrm Birth 
+9870173		Mummy Troll 
+9870174		Uther Statue 
+9870175		FelOrc Banner 
+9870176		Pentagram Dirt 
+9870177		Lava Rock 
+9870178		Lava Rock 
+9870179		Lava Rock 
+9870180		Lava Rock 
+9870181		Lava Rock 
+9870182		Lava Rock 
+9870183		Warlock Shrine 
+9870184		Spike 
+9870185		Lava Sink 
+9870186		Inn Bench  
+9870187		Iron Gate 
+9870188		Human Baby 
+9870189		Gnome Baby 
+9870190		Taurren Baby 
+9870191		Troll Baby 
+9870192		Lumber Mill 
+9870193		Night Elf Baby 
+9870194		Redridge Chapel 
+9870195		Dwarf Baby 
+9870196		Orc Baby 
+9870197		Gallows 
+9870198		Valentines Blanket 
+9870199		Valentines Crate 
+9870200		Chest  
+9870201		Centaur Tent 
+9870202		TNT Wagon 
+9870203		Goblin Shreedder 
+9870204		Cracked Ice 
+9870205		Alter 
+9870206		Light!! 
+9870207		Green Portal 
+9870208		Mage Portal Stormwind 
+9870209		ogrebannertiger 
+9870210		Night Elf Dresser 
+9870211		Druid Bed 
+9870212		Bunkbed Bed 
+9870213		Cannon 
+9870214		Undead Fire 
+9870215		Arch Gate 
+9870216		Wagon 
+9870217		Smelting Weapons 
+9870218		Farm 
+9870219		Xmas Lights 
+9870220		Throne  
+9870221		Dresser 
+9870222		Bone Dam 
+9870223		Water Fall 
+9870224		Ghostlands Moonstone 
+9870225		Skull 
+9870226		Flies 
+9870227		Murloc Alter 
+9870228		Pearl 
+9870229		Fossle 
+9870230		Fishing Chair 
+9870231		WSG Orc Gate 
+9870232		Pirate Flag 
+9870233		Wanted Poster 
+9870234		Wanted Poster  
+9870235		Stormwind 
+9870236		Emerald dream Tree 
+9870237		Tree 
+9870238		Emerald Dream Catcher 
+9870239		Emerald Dream Catcher  
+9870240		Orc Blade Thrower 
+9870241		Floating Rubble 
+9870242		Shroom 
+9870243		Outland Plant  
+9870244		Outland Rubble 
+9870245		Arathi Tree 
+9870246		Alterac Open Grave 
+9870247		Plageland Cage 
+9870248		Hanging Body 
+9870249		Hanging Body  
+9870250		Plague Cauldron 
+9870251		Crystal Ball 
+9870252		Nox Anvil 
+9870253		Alter of Souls 
+9870254		Shake Box! 
+9870255		Cave In 
+9870256		Animal Crate 
+9870257		Ballista 
+9870258		Flying Machine 
+9870259		Trap 
+9870260		Goblin Teleporter 
+9870261		Grave Burst 
+9870262		Light Well  
+9870263		Ice Block 
+9870264		Ice Block 
+9870265		Mana Rift 
+9870266		Necropolis 
+9870267		Spirit Totem 
+9870268		Well of Souls 
+9870269		Sea Weed 
+9870270		Sheild 
+9870271		Duel Flag 
+9870272		Inn Dobble Bed 
+9870273		Webs 
+9870274		Exodor INN Sign 
+9870275		Kael Statue 
+9870276		Stable 
+9870277		Pumpkin Patch 
+9870278		Light HouseLight 
+9870279		COT_DARKPORTALPARTICLES 
+9870280		INN Pillow 
+9870281		Xmas Tree 
+9870282		Serpent Altar 
+9870283		Demon Glow 
+9870284		Holding Pen 
+9870285		Apple Bowl 
+9870286		Mailbox 
+9870287		Beer Keg 
+9870288		Red Crystal 
+9870289		Voodoo Drum 
+9870290		Beerfest Wagon 
+9870291		Tauren Log Chair  
+9870292		Under Construction Sign 
+9870293		Gnome Pipe 
+9870294		Blanket Umbrella 
+9870295		Skleton Laying  
+9870296		Skleton Laying  
+9870297		Skleton Laying  
+9870299		Cracked_ice
+9870300		g_conjuretable
+9870301		g_GhostTrap
+9870302		g_stonesofbinding
+9870303		MagtheridonTrophyPost
+9870304		winterspringaltar
+9870305		DragonBonesSkull
+9870306		StoneKeeperAltar
+9870307		painting
+9870308		BrambleStaff
+9870309		HammerQuest
+9870310		MargolReaverHorn
+9870311		HotCoals
+9870312		IronForgeSteamTank
+9870313		BlackRockSeal
+9870314		BlackRockAltarRitual
+9870315		BlackRockDoors
+9870316		PlagueCauldron
+9870317		BloodOfHeroes
+9870318		Final_Stage
+9870319		GoldPileLarge
+9870320		TestBall
+9870321		SummerFest_MayPole
+9870322		ShamanStone
+9870323		Runestone
+9870324		FlameCircle
+9870325		g_ScourgeRuneCircleCrystal
+9870326		NEShrineSatyr
+9870327		CentaurTeleporter
+9870328		MaraudonStaffCreator
+9870329		UngoroCrystalPylon
+9870330		UngoroCrystalBlue
+9870331		UngoroCrystalBlue
+9870332		UngoroCrystalGreen
+9870333		UngoroCrystalGreen
+9870334		UngoroCrystalRed
+9870335		UngoroCrystalRed
+9870336		UngoroCrystalYellow
+9870337		UngoroCrystalYellow
+9870338		Kelthuzad_Throne
+9870339		Kelthuzad_Window_Portal
+9870340		Nox_Anvil
+9870341		Hellfire_DarkPortal_fx
+9870342		et_Lamppost
+9870343		dr_Knickknack_b
+9870344		Draenei_spirit_Red
+9870345		Auchindoun_Bridge_FX
+9870346		Auchindoun_Bridge_Spirits_Flying
+9870347		be_ArcaneBomb
+9870348		be_ArcaneBomb_Orb
+9870349		g_ritualofdoom
+9870350		g_necropolis
+9870351		ThousandNeedlesBridge
+9870352		BabyGnome
+9870353		BabyDwarf
+9870354		BabyHuman
+9870355		BabyNightElf
+9870356		BabyTauren
+9870357		BabyTroll
+9870358		AerieTree
+9870359		NEMagicImplement
+9870360		Karazhan_Observe_Door
+9870361		Altartidalmastery
+9870362		Hellfirecrystalformation
+9870363		Chromatic_Crystral_Formation
+9870364		Chromatic_Crystral_Formation
+9870365		dr_brazier
+9870366		KarazahnOwlStatue
+9870367		Zulaman_Firedoor
+9870368		Zulaman_Winddoor
+9870369		g_ManaRift
+9870370		EmeraldDreamCatcher
+9870371		EmeraldDreamFountainTree
+9870372		EmeraldDreamCatcher
+9870373		EmeraldDreamCatcher
+9870374		StatueHMPriest
+9870375		BFDStatueNagaPriestess
+9870376		StatueHMPaladin
+9870377		DireMaulStoneBearStatue
+9870378		DireMaulStoneDeerStatue
+9870379		DireMaulStoneOwlStatue
+9870380		g_FlareAlliance
+9870381		g_FlareHorde
+9870382		AirRift
+9870383		FireRift
+9870384		WaterRift
+9870385		Tradeskill_FishSchool_
+9870386		GreenGroundFog
+9870387		UnderConstruction
+9870388		LandingPad
+9870389		GiantSeaTurtle
+9870390		GiantSeaTurtle
+9870391		DSNightElfMoonWellOrnate
+9870392		TrollWatchTower
+9870393		CrystallizedTroll
+9870394		CrystallizedHuman
+9870395		SerpentAltar
+9870396		Frostwyrm_Waterfall
+9870397		BigBridgeWhite
+9870398		WestFallHumanFarm
+9870399		ManArmyGeneral
+9870400		OrcZeppelinHouse
+9870401		TerrokarTreeMicro
+9870402		KaelthasStatue
+9870403		cot_portalparticles
+9870404		COT_Portal
+9870405		GnomeMachine (Laboratory imo.)
+9870406		GMChairLOEND (The Chair)
+9870407		SubwayCar
+9870408		UndercityWorm
+9870409		CollisionWallPvPTextured
+9870410		PvP_Rune_Speed_Icon
+9870411		RazorfenForceField
+9870412		BE_LanternRed
+9870413		GiantClamActive
+9870414		UldamanDoor
+9870415		HumanMaleScale
+9870416		StormwindMagePortal
+9870417		DuskwoodMausoleum
+9870418		Tombstonemonument
+9870419		Distillery
+9870420		EyeOfSeethe (Azora)
+9870421		Waterbasin
+9870422		Cage
+9870423		Cage
+9870424		Cage
+9870425		NEShrine
+9870426		SkullSpear
+9870427		ENCHAIR
+9870428		ENCHAIR
+9870429		g_GnomeMultiBox
+9870430		FelwoodMushroom
+9870431		g_GnomeTerminal
+9870432		StranglethornWaterfall
+9870433		SerpentStatue
+9870434		TrollShrine
+9870435		StranglethornTikiHead
+9870438		HoldingPenBamboo
+9870437		TrollRuinsGong
+9870439		StranglethornPlant
+9870440		StranglethornPlant
+9870441		StranglethornPlant
+9870442		StranglethornPlant
+9870443		CharredBody
+9870444		CharredBody
+9870445		Hologram_VoidWalker
+9870446		TerokkarCrystal
+9870447		NS_Biodome_Generic
+9870448		ET_Cage
+9870449		HumanWagon
+9870450		LighthouseEffect
+9870451		Karazhan_RedRidingHood_House
+9870452		DuskwoodDarmHouseBurnt
+9870453		GriffonAviary
+9870454		FlamingPumpkinHead
+9870455		Chapel
+9870456		DuskwoodChapel
+9870457		FishingChair
+9870458		GiantTotem
+9870459		MoleMachine
+9870460		ShoutBawx_Generix
+9870461		Ragdoll_
+9870462		Ragdoll_
+9870463		Ragdoll_
+9870464		Radgoll_
+9870465		BlastedLandsLightningBolt
+9870466		AuraGreen
+9870467		DrumGiant
+9870468		SmallPortcullis
+9870469		LargePortcullis
+9870470		Ziggurat Door
+9870471		WarchiefRendsHead
+9870472		Temporal_Displacement
+9870473		g_BellShip
+9870474		GlowingOgreHead
+9870475		LichContainer
+9870476		Exodar_Narucore_FX
+9870477		Exodar_PaladinShrine_EnergyFX
+9870478		Exodar_Sky_Portal
+9870479		Crystal_Corrupted
+9870480		TK_Factory_Door
+9870481		Shattrath_Naaru_Energy_FX
+9870482		TK_ArcaneDoor_VERT
+9870483		TK_ArcaneDoor_Horiz
+9870484		TK_Raid_Windows_Tall
+9870485		TK_RaidDoor
+9870486		CollectorTubesStraightState
+9870487		SkeletonSitting
+9870488		SkeletonSitting
+9870489		SkeletonSitting
+9870490		SkeletonLaying
+9870491		SkeletonSitting\
+9870492		SkeletonInAJar
+9870493		LightSkeletonSitting
+9870494		LightSkeletonSitting
+9870495		LightSkeletonSitting
+9870496		LightSkeletonLaying
+9870497		LightSkeletonLaying
+9870498		WailingDruidBed
+9870499		WC_BedStone
+9870500		COT_LightshaftA
+9870501		AerieBoulder
+9870502		BT_CommonDoor
+9870503		BT_Gate
+9870504		MoonWellWaterFX
+9870505		BT_IllidanDoor
+9870506		WarcraftDarkPortal
+9870507		DragonKinNest
+9870508		DragonKinNest
+9870509		DragonKinNest
+9870510		DragonEgg
+9870511		EagleThrone
+9870512		GoblinShredderSuit
+9870513		LavaSmokeEmitterB
+9870514		GoblinHutBottles
+9870515		GoblinMachinery
+9870516		GoblinTent
+9870517		GoblinWagonTNT_
+9870518		GuildVault_Goblin_
+9870519		GuildVault_BloodElf
+9870520		GuildVault_Undercity
+9870521		GuildVault_Human
+9870522		GuildVault_Dwarf
+9870523		GuildVault_Orc
+9870524		GuildVault_NightElf
+9870525		GuildVault_Tauren
+9870526		RazorFenLeanto
+9870527		WarlockShrine
+9870528		TaurenSack
+9870529		NetherStorm_Particles
+9870530		WaterPump
+9870531		G_Watermelon
+9870532		WaterBasin
+9870533		WaterTroughSmall
+9870534		GenericSeaWeed
+9870535		GenericSeaWeed
+9870536		ElwynnMushroom
+9870537		StormwindRug
+9870538		ElwynnFlower
+9870539		NightElfRuins
+9870540		DruidWisp
+9870541		ArathiRock
+9870542		Haystack
+9870543		ElvenPottery
+9870544		ElvenPotter
+9870545		Thornroot
+9870546		SwiftThistle
+9870547		Magebloom
+9870548		FirewoodPile
+9870549		Barrel
+9870550		TrollSkullPile
+9870551		Gallows
+9870552		ElwynnMineCart
+9870553		G_LeverMetal
+9870554		Jar
+9870555		ElwynnRock
+9870556		DuskWoodCatails
+9870557		LargeFirePit
+9870558		DeadMineValveSteam
+9870559		DeadminesValveSteam
+9870560		BlackSmithForge
+9870561		GoblinControlPanel
+9870562		G_GnomeTerminal
+9870563		G_EpicBrazierYellow
+9870564		G_EpicBrazierBlue
+9870565		AremaFlag
+9870566		IllidanCrystal
+9870567		LanternBlue
+9870568		Hive_Fireflies
+9870569		G_HolyLightWell
+9870570		NoxDoor_Abom_Mini
+9870571		AQ_Mummy
+9870572		Spring
+9870573		FloatingBoards
+9870574		BrokenGateWood
+9870575		Furnace_Skull
+9870576		BlastedLandsSpine
+9870577		Nox_Door_Web_large
+9870578		AlteracShrub
+9870579		OrcBarracks
+9870580		DR_Lampost_
+9870581		BU_Felreaver
+9870582		Hellfire_FireParticle
+9870583		BattleGladeShield
+9870584		BubblingBowl
+9870585		GnomeSteelPlate
+9870586		CF_ElevatorPlatform
+9870587		GunShopTarget
+9870588		GunTargetStand
+9870589		GunTargetDwarf
+9870590		Karazhan_BrickRoad
+9870591		Karazhan_RJ_Stars
+9870592		AK_Scarecrow
+9870593		EPL_PvP_Flags_NorthFort
+9870594		Bush_FlameCap
+9870595		TerrokarPineCone
+9870596		DR_Fountain_Ruined
+9870597		TaurenRug
+9870598		StranglethornPlant
+98200104		vyrkulboat 
+98200103		Testplatform 
+98200105		UL_Throne 
+98200106		UL_hex_floor 
+98200107		UL 
+98200109		ULThrone 
+98200110		Human_Tent 
+98200111		White_bridge_BIG 
+98200112		Burnt_ground 
+98200113		ZA_Entrance_Gate 
+98200114		Eagle_Throne 
+98200116		Ulduar_Wall_DON_NOT_ACTIVATE 
+98200119		Cage_base 
+98200120		Ice_Cliff 
+98200121		VR_Chair 
+98200122		VR_Rug 
+98200123		VR_Brazier 
+98200124		SunShatter_Monument 
+98200125		Tuskarr_statue 
+98200127		Ice_block_ 
+98200128		CD_Altar 
+98200129		ID_Pillar 
+98200130		Org_door 
+98200131		Red_arena_fence 
+98200132		Darkshore_dock 
+98200133		Darkshore_dock 
+98200134		High Elf Tent 
+98200135		Kagdhar Statue 
+98200136		Lava_Pillar 
+98200137		Lava_Altar 
+98200138		Lava_sink 
+98200140		Lava_fall 
+98200141		Lava_fall 
+98200142		Dalaran_prisonDoor 
+98200143		grey_stone 
+98200145		Red_curtain 
+98200147		Stormwind Rug  
+98200150		Scourge_tent 
+98200151		Scourge_platform 
+98200152		Scourge_stairs 
+98200153		Scourge_stairs 
+98200154		Scourge_Trench_Pchain 
+98200155		Scourge_Wall__cap 
+98200156		Scourge_Wall_ramp 
+98200157		Scourge_floor_decoration 
+98200158		Scourge_wall_ 
+98200160		Scourge_Pit_Fence_medium 
+98200159		Scourge_Pit_Fence_long 
+98200161		Scourge_Pit_Fence_tall 
+98200162		Lordaeron_Throne_railing 
+98200163		Statue 
+98200164		Dalaran_Rug 
+98200165		cooking_tent 
+98200166		Grain_Silo 
+98200167		Needles_bridge 
+98200168		lordaeron_rune 
+98200169		creen_vial 
+98200170		spiral_top_bush 
+98200171		Ulduar Gate 
+98200172		Blue_Thorn Plant 
+98200173		Small Bush 
+98200174		Ground_flame 
+98200178		Light_bush 
+98200179		lightcap_bush 
+98200180		flaming_log 
+98200181		campfire_ 
+98200182		icy_ground_rune 
+98200184		water_fountain 
+98200186		Alliance_Flag 
+98200187		arcane_twister 
+98200188		horde_tent 
+98200189		UL_platform 
+98200190		skull_pike 
+98200191		Vyrkul_tower 
+98200192		robotic_arm 
+98200193		flame_torch 
+98200194		flame_torch 
+98200195		Vyrkul_Weapon_stand 
+98200196		blue_egg_stand 
+98200197		blue_egg_stand 
+98200198		blue_egg_stand 
+98200202		blue_egg_stand 
+98200203		blue_flametorch 
+98200204		burlap_rug 
+98200205		ground_ice 
+98200207		ground_ice 
+98200102		storyhouse 
+98200126		ice_boulder 
+98200144		WG Siege 
+98200148		Wintergrasp_wall 
+98200102		storyhouse 
+89700104		Duskwood House 
+89700105		Terokkar Tree (Large) 
+89700106		Druid Tower 
+89700107		Human House 
+89700108		Zep Tower 
+89700109		Giant Totem 
+89700110		BT gates Solid 
+89700111		Blade Thrower 
+89700112		Landing pad 
+89700113		Hourglass 
+89700114		Prison Gate 
+89700115		Westfall tree 
+89700116		Human Tank 
+89700117		God Altar 
+89700118		Stormwind 
+89700119		Emerald dream Tree 
+89700120		Warcraft Dark Portal 
+89700121		Orc Barracks 
+89700122		NE Ship 
+89700123		Zeppelin 
+89700124		Bamboo Holding pen 
+89700125		Orc Tower 
+89700126		Guard Tower 
+89700127		Moonwell 
+89700128		Ship 
+89700129		Elves Dock 
+89700130		Pirate Ship 
+89700131		Stone 
+89700132		Big tower 
+89700133		Bridge 
+89700134		banner 
+89700135		Statue 
+89700136		Crafter 
+89700137		Sign 
+89700138		Bigpole 
+89700139		bed 
+89700140		Lamppost 
+89700141		Statue 
+89700142		Statupriest 
+89700143		statueuther 
+89700144		duelflag 
+89700145		gallows 
+89700146		Gold 
+89700147		baby 
+89700148		Catapult 
+89700149		Goodbanner 
+89700150		bannergood 
+89700151		tent 
+89700152		bigbanner 
+89700153		Watchportal 
+89700154		Watch tower 
+89700155		Clanabanner 
+89700156		fence 
+89700157		Catapult - FLY FLY!  
+89700158		ROCKET BOTTLE  
+89700159		Fire Flies 
+89700160		Icy Rune 
+89700161		Illidan Crystal 
+89700162		Blanket Grill 
+89700163		Blue Orc Blazier 
+89700164		conjuretable 
+89700165		G_Krusk Spear 
+89700166		Human Male 
+89700167		Beerfest Beer Vendor 
+89700168		Alliance Weapon Crate 
+89700169		Argent Dawn Banner 
+89700170		Floating Tree 
+89700171		Floating Tree 
+89700172		Frostwyrm Birth 
+89700173		Mummy Troll 
+89700174		Uther Statue 
+89700175		FelOrc Banner 
+89700176		Pentagram Dirt 
+89700177		Lava Rock 
+89700178		Lava Rock 
+89700179		Lava Rock 
+89700180		Lava Rock 
+89700181		Lava Rock 
+89700182		Lava Rock 
+89700183		Warlock Shrine 
+89700184		Spike 
+89700185		Lava Sink 
+89700186		Inn Bench  
+89700187		Iron Gate 
+89700188		Human Baby 
+89700189		Gnome Baby 
+89700190		Taurren Baby 
+89700191		Troll Baby 
+89700192		Lumber Mill 
+89700193		Night Elf Baby 
+89700194		Redridge Chapel 
+89700195		Dwarf Baby 
+89700196		Orc Baby 
+89700197		Gallows 
+89700198		Valentines Blanket 
+89700199		Valentines Crate 
+89700200		Chest  
+89700201		Centaur Tent 
+89700202		TNT Wagon 
+89700203		Goblin Shreedder 
+89700204		Cracked Ice 
+89700205		Alter 
+89700206		Light!! 
+89700207		Green Portal 
+89700208		Mage Portal Stormwind 
+89700209		ogrebannertiger 
+89700210		Night Elf Dresser 
+89700211		Druid Bed 
+89700212		Bunkbed Bed 
+89700213		Cannon 
+89700214		Undead Fire 
+89700215		Arch Gate 
+89700216		Wagon 
+89700217		Smelting Weapons 
+89700218		Farm 
+89700219		Xmas Lights 
+89700220		Throne  
+89700221		Dresser 
+89700222		Bone Dam 
+89700223		Water Fall 
+89700224		Ghostlands Moonstone 
+89700225		Skull 
+89700226		Flies 
+89700227		Murloc Alter 
+89700228		Pearl 
+89700229		Fossle 
+89700230		Fishing Chair 
+89700231		WSG Orc Gate 
+89700232		Pirate Flag 
+89700233		Wanted Poster 
+89700234		Wanted Poster  
+89700235		Stormwind 
+89700236		Emerald dream Tree 
+89700237		Tree 
+89700238		Emerald Dream Catcher 
+89700239		Emerald Dream Catcher  
+89700240		Orc Blade Thrower 
+89700241		Floating Rubble 
+89700242		Shroom 
+89700243		Outland Plant  
+89700244		Outland Rubble 
+89700245		Arathi Tree 
+89700246		Alterac Open Grave 
+89700247		Plageland Cage 
+89700248		Hanging Body 
+89700249		Hanging Body  
+89700250		Plague Cauldron 
+89700251		Crystal Ball 
+89700252		Nox Anvil 
+89700253		Alter of Souls 
+89700254		Shake Box! 
+89700255		Cave In 
+89700256		Animal Crate 
+89700257		Ballista 
+89700258		Flying Machine 
+89700259		Trap 
+89700260		Goblin Teleporter 
+89700261		Grave Burst 
+89700262		Light Well  
+89700263		Ice Block 
+89700264		Ice Block 
+89700265		Mana Rift 
+89700266		Necropolis 
+89700267		Spirit Totem 
+89700268		Well of Souls 
+89700269		Sea Weed 
+89700270		Sheild 
+89700271		Duel Flag 
+89700272		Inn Dobble Bed 
+89700273		Webs 
+89700274		Exodor INN Sign 
+89700275		Kael Statue 
+89700276		Stable 
+89700277		Pumpkin Patch 
+89700278		Light HouseLight 
+89700279		COT_DARKPORTALPARTICLES 
+89700280		INN Pillow 
+89700281		Xmas Tree 
+89700282		Serpent Altar 
+89700283		Demon Glow 
+89700284		Holding Pen 
+89700285		Apple Bowl 
+89700286		Mailbox 
+89700287		Beer Keg 
+89700288		Red Crystal 
+89700289		Voodoo Drum 
+89700290		Beerfest Wagon 
+89700291		Tauren Log Chair  
+89700292		Under Construction Sign 
+89700293		Gnome Pipe 
+89700294		Blanket Umbrella 
+89700295		Skleton Laying  
+89700296		Skleton Laying  
+89700297		Skleton Laying  
+89700298		Paladin_Shrine
+89700299		Cracked_ice
+89700300		g_conjuretable
+89700301		g_GhostTrap
+89700302		g_stonesofbinding
+89700303		MagtheridonTrophyPost
+89700304		winterspringaltar
+89700305		DragonBonesSkull
+89700306		StoneKeeperAltar
+89700307		painting
+89700308		BrambleStaff
+89700309		HammerQuest
+89700310		MargolReaverHorn
+89700311		HotCoals
+89700312		IronForgeSteamTank
+89700313		BlackRockSeal
+89700314		BlackRockAltarRitual
+89700315		BlackRockDoors
+89700316		PlagueCauldron
+89700317		BloodOfHeroes
+89700318		Final_Stage
+89700319		GoldPileLarge
+89700320		TestBall
+89700321		SummerFest_MayPole
+89700322		ShamanStone
+89700323		Runestone
+89700324		FlameCircle
+89700325		g_ScourgeRuneCircleCrystal
+89700326		NEShrineSatyr
+89700327		CentaurTeleporter
+89700328		MaraudonStaffCreator
+89700329		UngoroCrystalPylon
+89700330		UngoroCrystalBlue
+89700331		UngoroCrystalBlue
+89700332		UngoroCrystalGreen
+89700333		UngoroCrystalGreen
+89700334		UngoroCrystalRed
+89700335		UngoroCrystalRed
+89700336		UngoroCrystalYellow
+89700337		UngoroCrystalYellow
+89700338		Kelthuzad_Throne
+89700339		Kelthuzad_Window_Portal
+89700340		Nox_Anvil
+89700341		Hellfire_DarkPortal_fx
+89700342		et_Lamppost
+89700343		dr_Knickknack_b
+89700344		Draenei_spirit_Red
+89700345		Auchindoun_Bridge_FX
+89700346		Auchindoun_Bridge_Spirits_Flying
+89700347		be_ArcaneBomb
+89700348		be_ArcaneBomb_Orb
+89700349		g_ritualofdoom
+89700350		g_necropolis
+89700351		ThousandNeedlesBridge
+89700352		BabyGnome
+89700353		BabyDwarf
+89700354		BabyHuman
+89700355		BabyNightElf
+89700356		BabyTauren
+89700357		BabyTroll
+89700358		AerieTree
+89700359		NEMagicImplement
+89700360		Karazhan_Observe_Door
+89700361		Altartidalmastery
+89700362		Hellfirecrystalformation
+89700363		Chromatic_Crystral_Formation
+89700364		Chromatic_Crystral_Formation
+89700365		dr_brazier
+89700366		KarazahnOwlStatue
+89700367		Zulaman_Firedoor
+89700368		Zulaman_Winddoor
+89700369		g_ManaRift
+89700370		EmeraldDreamCatcher
+89700371		EmeraldDreamFountainTree
+89700372		EmeraldDreamCatcher
+89700373		EmeraldDreamCatcher
+89700374		StatueHMPriest
+89700375		BFDStatueNagaPriestess
+89700376		StatueHMPaladin
+89700377		DireMaulStoneBearStatue
+89700378		DireMaulStoneDeerStatue
+89700379		DireMaulStoneOwlStatue
+89700380		g_FlareAlliance
+89700381		g_FlareHorde
+89700382		AirRift
+89700383		FireRift
+89700384		WaterRift
+89700385		Tradeskill_FishSchool_
+89700386		GreenGroundFog
+89700387		UnderConstruction
+89700388		LandingPad
+89700389		GiantSeaTurtle
+89700390		GiantSeaTurtle
+89700391		DSNightElfMoonWellOrnate
+89700392		TrollWatchTower
+89700393		CrystallizedTroll
+89700394		CrystallizedHuman
+89700395		SerpentAltar
+89700396		Frostwyrm_Waterfall
+89700397		BigBridgeWhite
+89700398		WestFallHumanFarm
+89700399		ManArmyGeneral
+89700400		OrcZeppelinHouse
+89700401		TerrokarTreeMicro
+89700402		KaelthasStatue
+89700403		cot_portalparticles
+89700404		COT_Portal
+89700405		GnomeMachine (Laboratory imo.)
+89700406		GMChairLOEND (The Chair)
+89700407		SubwayCar
+89700408		UndercityWorm
+89700409		CollisionWallPvPTextured
+89700410		PvP_Rune_Speed_Icon
+89700411		RazorfenForceField
+89700412		BE_LanternRed
+89700413		GiantClamActive
+89700414		UldamanDoor
+89700415		HumanMaleScale
+89700416		StormwindMagePortal
+89700417		DuskwoodMausoleum
+89700418		Tombstonemonument
+89700419		Distillery
+89700420		EyeOfSeethe (Azora)
+89700421		Waterbasin
+89700422		Cage
+89700423		Cage
+89700424		Cage
+89700425		NEShrine
+89700426		SkullSpear
+89700427		ENCHAIR
+89700428		ENCHAIR
+89700429		g_GnomeMultiBox
+89700430		FelwoodMushroom
+89700431		g_GnomeTerminal
+89700432		StranglethornWaterfall
+89700433		SerpentStatue
+89700434		TrollShrine
+89700435		StranglethornTikiHead
+89700438		HoldingPenBamboo
+89700437		TrollRuinsGong
+89700438		StranglethornPlant
+89700439		StranglethornPlant
+89700440		StranglethornPlant
+89700441		StranglethornPlant
+89700442		StranglethornPlant
+89700443		CharredBody
+89700444		CharredBody
+89700445		Hologram_VoidWalker
+89700446		TerokkarCrystal
+89700447		NS_Biodome_Generic
+89700448		ET_Cage
+89700449		HumanWagon
+89700450		LighthouseEffect
+89700451		Karazhan_RedRidingHood_House
+89700452		DuskwoodDarmHouseBurnt
+89700453		GriffonAviary
+89700454		FlamingPumpkinHead
+89700455		Chapel
+89700456		DuskwoodChapel
+89700457		FishingChair
+89700458		GiantTotem
+89700459		MoleMachine
+89700460		ShoutBawx_Generix
+89700461		Ragdoll_
+89700462		Ragdoll_
+89700463		Ragdoll_
+89700464		Radgoll_
+89700465		BlastedLandsLightningBolt
+89700466		AuraGreen
+89700467		DrumGiant
+89700468		SmallPortcullis
+89700469		LargePortcullis
+89700470		Ziggurat Door
+89700471		WarchiefRendsHead
+89700472		Temporal_Displacement
+89700473		g_BellShip
+89700474		GlowingOgreHead
+89700475		LichContainer
+89700476		Exodar_Narucore_FX
+89700477		Exodar_PaladinShrine_EnergyFX
+89700478		Exodar_Sky_Portal
+89700479		Crystal_Corrupted
+89700480		TK_Factory_Door
+89700481		Shattrath_Naaru_Energy_FX
+89700482		TK_ArcaneDoor_VERT
+89700483		TK_ArcaneDoor_Horiz
+89700484		TK_Raid_Windows_Tall
+89700485		TK_RaidDoor
+89700486		CollectorTubesStraightState
+89700487		SkeletonSitting
+89700488		SkeletonSitting
+89700489		SkeletonSitting
+89700490		SkeletonLaying
+89700491		SkeletonSitting\
+89700492		SkeletonInAJar
+89700493		LightSkeletonSitting
+89700494		LightSkeletonSitting
+89700495		LightSkeletonSitting  
+89700496		LightSkeletonLaying
+89700497		LightSkeletonLaying  
+89700498		WailingDruidBed  
+89700499		WC_BedStone  
+89700500		COT_LightshaftA  
+89700501		AerieBoulder
+89700502		BT_CommonDoor  
+89700503		BT_Gate  
+89700504		MoonWellWaterFX  
+89700505		BT_IllidanDoor  
+89700506		WarcraftDarkPortal  
+89700507		DragonKinNest  
+89700508		DragonKinNest
+89700509		DragonKinNest  
+89700510		DragonEgg  
+89700511		EagleThrone  
+89700512		GoblinShredderSuit
+89700513		LavaSmokeEmitterB  
+89700514		GoblinHutBottles  
+89700515		GoblinMachinery  
+89700516		GoblinTent  
+89700517		GoblinWagonTNT_  
+89700518		GuildVault_Goblin_  
+89700519		GuildVault_BloodElf  
+89700520		GuildVault_Undercity  
+89700521		GuildVault_Human  
+89700522		GuildVault_Dwarf  
+89700523		GuildVault_Orc  
+89700524		GuildVault_NightElf  
+89700525		GuildVault_Tauren  
+89700526		RazorFenLeanto  
+89700527		WarlockShrine  
+89700528		TaurenSack
+89700529		NetherStorm_Particles  
+89700530		WaterPump  
+89700531		G_Watermelon  
+89700532		WaterBasin  
+89700533		WaterTroughSmall  
+89700534		GenericSeaWeed  
+89700535		GenericSeaWeed  
+89700536		ElwynnMushroom  
+89700537		StormwindRug  
+89700538		ElwynnFlower
+89700539		NightElfRuins  
+89700540		DruidWisp  
+89700541		ArathiRock  
+89700542		Haystack  
+89700543		ElvenPottery  
+89700544		ElvenPotter
+89700545		Thornroot  
+89700546		SwiftThistle  
+89700547		Magebloom  
+89700548		FirewoodPile  
+89700549		Barrel
+89700550		TrollSkullPile  
+89700551		Gallows  
+89700552		ElwynnMineCart  
+89700553		G_LeverMetal  
+89700554		Jar  
+89700555		ElwynnRock  
+89700556		DuskWoodCatails  
+89700557		LargeFirePit  
+89700558		DeadMineValveSteam
+89700559		DeadminesValveSteam  
+89700560		BlackSmithForge  
+89700561		GoblinControlPanel  
+89700562		G_GnomeTerminal  
+89700563		G_EpicBrazierYellow  
+89700564		G_EpicBrazierBlue  
+89700565		AremaFlag  
+89700566		IllidanCrystal  
+89700567		LanternBlue  
+89700568		Hive_Fireflies  
+89700569		G_HolyLightWell  
+89706700		NoxDoor_Abom_Mini  
+89700571		AQ_Mummy  
+89700572		Spring  
+89700573		FloatingBoards  
+89700574		BrokenGateWood  
+89700575		Furnace_Skull  
+89700576		BlastedLandsSpine  
+89700577		Nox_Door_Web_large  
+89700578		AlteracShrub  
+89700579		OrcBarracks  
+89700580		DR_Lampost_  
+89700581		BU_Felreaver  
+89700582		Hellfire_FireParticle  
+89700583		BattleGladeShield  
+89700584		BubblingBowl
+89700585		GnomeSteelPlate
+89700586		CF_ElevatorPlatform  
+89700587		GunShopTarget  
+89700588		GunTargetStand  
+89700589		GunTargetDwarf  
+89700590		Karazhan_BrickRoad  
+89700591		Karazhan_RJ_Stars  
+89700592		AK_Scarecrow  
+89700593		EPL_PvP_Flags_NorthFort  
+89700594		Bush_FlameCap  
+89700595		TerrokarPineCone  
+89700596		DR_Fountain_Ruined  
+89700597		TaurenRug
+89700598		Invisible Wall 
+87110000		Redridge Chapel 
+87110001		Lumber Mill 
+87110002		Burnt House 
+87110003		Duskwood House 
+87110004		Terokkar Tree (Large) 
+87110005		Druid Tower 
+87110006		Human House 
+87110007		Zep Tower 
+87110008		Giant Totem 
+87110009		BT gates Solid 
+87110010		Blade Thrower 
+87110011		Landing pad 
+87110012		Hourglass 
+87110015		Prison Gate 
+87110017		Westfall tree 
+87110020		Human Tank 
+87110019		God Altar 
+87110018		Stormwind 
+87110016		Emerald dream Tree 
+87110021		Warcraft Dark Portal 
+87110022		Orc Barracks 
+87110023		NE Ship 
+87110024		Zeppelin 
+87110025		Bamboo Holding pen 
+87110026		Orc Tower 
+87110027		Guard Tower 
+87110028		Moonwell 
+87110029		Ship 
+87110030		Elves Dock 
+87110039		Pirate Ship 
+9767840		HZ Lightning  
+9767841		Lightning Ball  
+9767842		Round Lightning  
+9767843		HexagonPanel  
+9767844		UL_Thorne  
+9767845		Gnome Elevator  
+9767846		BoxTest  
+9767847		Goblin Teleporter  
+9767848		Zeppelin Control Panel  
+9767849		Brass Cannon  
+9767850		Nexus-Floor  
+9767851		Sigil  
+9799999		Walll 
+9767852		KnockBack  
+9767853		KnockBack
+9767854		KnockBack
+9767826		Pipe  
+9767827		Rocket Bottle  
+9767828		Lightining  
+9767829		Machine  
+9767830		IceThorn  
+9767831		ButtonController  
+9767832		SeaGrass  
+9767833		TestBall  
+9767834		PowerOrb  
+9767835		Machine  
+9767836		ControlPanel  
+9767837		SongHeart  
+9767838		Valve  
+9767839		HazardLight  
+9799001		BladeBanner  
+9799002		BarbershopPolewell  
+9799003		Swirly  
+9799004		UL-Door  
+9799005		DL-LampPost  
+9799006		DL-Bench  
+9799007		DL-Fountain  
+9767799		Stone 
+9767800		Big tower 
+9767801		Bridge 
+9767802		banner 
+9767803		Statue 
+9767804		Crafter 
+9767805		Sign 
+9767806		Bigpole 
+9767807		bed 
+9767808		Lamppost 
+9767809		Statuee 
+9767810		Statupriest 
+9767811		statueuther 
+9767812		duelfal 
+9767813		gallow 
+9767814		Gold 
+9767815		baby 
+9767816		Catapult 
+9767817		Goodbanner 
+9767818		bannergood 
+9767819		tent 
+9767820		bigbanner 
+9767821		Watchportal 
+9767822		Watch tower 
+9767823		Clanabnner 
+9767824		fence 
+9767825		Catapult - FLY FLY!  
+9767826		Pipe  
+9767827		Rocket Bottle  
+9767828		Lightining  
+9767829		Machine  
+9767830		IceThorn  
+9767831		ButtonController  
+9767832		SeaGrass  
+9767833		TestBall  
+9767834		PowerOrb  
+9767835		Machine  
+9767836		ControlPanel  
+9767837		SongHeart  
+9767838		Valve  
+9767839		HazardLight  
+9799008		XMas_GIFT  
+9799009		XMas_GIFT  
+9799010		XMas_GIFT  
+9799011		XMas_GIFT  
+9799012		XMas_SOCK  
+9799013		XMas_SOCK  
+9799014		XMas_RAWR  
+9799015		XMas_LIGHTS  
+9799016		XMas_Tree_Large  
+9799017		XMas_Tree_Small  
+9799030		XMas_Tree_Large  
+9799031		XMas_Tree_Small  
+9799032		CoralTree  
+9799033		SnowyTree  
+9799034		xD_Tree 

@@ -1,0 +1,431 @@
+* Keazains ArcEmu Modded KDB FUN Database NPC List *
+
+to spawn use:   .npc spawn XXXXXX 1
+to delete use:  .npc delete (when you have marked your desided npc you want to delete)
+
+to spawn gameobject use:   .go spawn XXXXXX 1
+to delete gameobject use:  .go select "ENTER" .go delete 1
+
+
+======================================================================================
+* wowhead items 1 to 48454 added * (thx to frizzy for making most of items for ur KDB)
+======================================================================================
+* Keazain Custom NPC *
+======================================================================================
+90000001    GM Gelper NPC
+90000002    Token Exchanger NPC 
+90000003    Skill Advancer NPC 
+90000004    Menuer NPC 
+90000005    Server Teleporter NPC 
+90000006    Morpher I NPC 1 
+90000007    Mounter NPC 
+90000008    NoobHelper NPC 
+90000009    Paymistress NPC 
+90000010    Reputationer NPC 
+90000011    Skills NPC 
+90000012    Stripper NPC 
+90000013    Titler NPC 
+90000014    Witch Docter NPC 
+90000015    Buffer NPC 
+90000016    Healer NPC 
+90000017    Hide`N Seek NPC 
+90000018    Server Informer NPC 
+90000019    Morpfer II NPC
+90000020    Redrifge Obstacle Course NPC 
+90000021    DJ NPC 
+90000022    Fire Morpfer 
+90000023    Professioner NPC 
+90000024    Spell Power NPC 
+90000025    Sanctuary NPC 
+90000026    Code Exchanger NPC 
+90000030    Sunwell Gear NPC 
+90000031    DeathKnight Trainer NPC 
+90000032    Tier 7 Npc 
+90000033    Armor Twink NPC 
+90000034    Neck/Finger/Trinket Twink NPC 
+90000035    Mount Twink NPC 
+90000036    Weapon Twink NPC 
+90000038    Lottery NPC 
+90000039    Rewards NPC 
+90000040    First Aid NPC 
+90000041    Porter NPC
+90000042    Muck NPC
+90000082    T8 LUA
+90000150    T8 Vendor 
+90000152    Ulduar Cloth Vendor 
+90000153    Ulduar leather Vendor 
+90000154    Ulduar Mail Vendor 
+90000155    T9 Cloth Vendor 
+90000156    T9 Mail Vendor 
+90000157    Furius Gear Vendor I 
+90000158    Furius Item Vendor II 
+90000159    Furius Item Vendor III 
+90000160    Furius Gear Vendor IIII 
+90000161    Furius Weapons Vendor V 
+90000162    Furius Jewelry Vendor VI 
+990000100   Gold Quest NPC
+990000200   Reward Quest NPC
+======================================================================================
+* Trainers set 1 NPC *
+======================================================================================
+300030      Global Melee Classtrainer 1 NPC 
+300040      Global Melee Classtrainer 2 NPC 
+300050      Global Spell Classtrainer 1 NPC 
+300060      Global Spell Classtrainer 2 NPC 
+======================================================================================
+* Trainers set 2 NPC *
+======================================================================================
+70000       Global Melee Trainer NPC 
+70001       Global Spell Caster Trainer NPC 
+70002       Global Weapon Trainer NPC 
+70003       Global Riding Trainer NPC 
+70004       Global GM Trainer NPC 
+70005       Global Buff Trainer NPC 
+70006       Global Professions Trainer I NPC 
+70007       Global Professions Trainer II NPC 
+70008       Global Secondary Skills Trainer NPC 
+======================================================================================
+* Vendors set 1 NPC *
+======================================================================================
+180001      Dungeon I 
+180002      Dungeon II 
+180003      Dungeon III 
+180004      Tier I 
+180005      Tier II 
+180006      Tier III 
+180007      Tier III 
+180008      Tier III 
+180009      Tier III 
+180010      Wrist 
+180011      Waist 
+180012      Feet 
+180013      Shield 
+180014      Necklace 
+180015      Rings 
+180016      Trinket 
+180017      Cloak 
+180018      Shirt 
+180019      Tabard 
+180020      Miscellaneous 
+180021      Off-Hands 
+180022      Libram/Idol/Totem 
+180023      Level 50+ 
+180024      Level 60+ 
+180025      Level 65+ 
+180026      Level 75+ 
+180027      Level 100+ 
+180028      Arena Season I 
+180031      Arena Season II 
+180078      Arena Season III 
+180150      Arena Season IV 
+180034      Gemstone I 
+180035      Gemstone II 
+180036      Mount I 
+180037      Mount II 
+180038      Projectile 
+180039      Container 
+180040      Potions 
+180041      Enchantment 
+180042      Keys 
+180043      Currency 
+180044      Book A-Z 
+180045      Leather A-F 
+180046      Leather G-R 
+180047      Leather S-Z 
+180048      Tailor A-G 
+180049      Tailor H-Z 
+180050      Engineer A-Z 
+180051      Blacksmith A-F 
+180052      Blacksmith G-R 
+180053      Blacksmith S-Z 
+180054      Cooking A-Z 
+180055      Alchemy A-Z 
+180056      Enchant A-G 
+180057      Enchant H-Z 
+180058      Jeweler A-K 
+180059      Jeweler L-Z 
+180060      Leather I 
+180061      Leather II 
+180062      Tailor I 
+180063      Tailor II 
+180064      Engineer I 
+180065      Engineer II 
+180066      Blacksmith I 
+180067      Blacksmith II 
+180068      Cooking 
+180069      Alchemy 
+180070      Enchant 
+180071      Jeweler 
+180072      Miscellaneous 
+======================================================================================
+* Vendors set 2 NPC *
+======================================================================================
+590000      Armor 
+590001      Armor 
+590002      Armor 
+590003      Armor 
+590004      Armor 
+590005      Armor 
+590006      Armor 
+590007      Armor 
+590008      Armor 
+590009      Armor 
+590010      Armor 
+590011      Armor 
+590012      Armor 
+590013      Armor 
+590014      Armor 
+590015      Armor 
+590016      Armor 
+590017      Armor 
+590018      Armor 
+590019      Armor 
+590020      Armor 
+590021      Armor 
+590022      Armor 
+590023      Armor 
+590024      Weapon 
+590025      Weapon 
+590026      Weapon 
+590027      Weapon 
+590028      Weapon 
+590029      Weapon 
+590030      Arena 
+590031      Arena 
+590032      Arena 
+590033      Arena 
+590034      Arena 
+590035      Arena 
+590036      Arena 
+590037      Arena 
+590038      Arena 
+590039      Arena 
+590040      Arena 
+590041      Arena 
+590042      Gem 
+590043      Gem 
+590044      Gem 
+590045      Gem 
+590046      Gem 
+590047      Gem 
+590048      Gem 
+590049      Gem 
+590050      Recipe 
+590051      Recipe 
+590052      Recipe 
+590053      Recipe 
+590054      Recipe 
+590055      Recipe 
+590056      Recipe 
+590057      Recipe 
+590058      Recipe 
+590059      Recipe 
+590060      Recipe 
+590061      Recipe 
+590062      Recipe 
+590063      Recipe 
+590064      Recipe 
+590065      Recipe 
+590066      Reagent 
+590067      Reagent 
+590068      Reagent 
+590069      Reagent 
+590070      Reagent 
+590071      Reagent 
+590072      Reagent 
+590073      Reagent 
+590074      Reagent 
+590075      Reagent 
+590076      Reagent 
+590077      Reagent 
+590078      Reagent 
+590079      Misc 
+590080      Misc 
+590081      Misc 
+590082      Misc 
+590083      Misc 
+590084      Misc 
+590085      Misc 
+590086      Misc 
+590087      Misc 
+590088      Misc 
+590089      Misc 
+590090      Misc 
+590091      Misc 
+590092      Misc 
+590093      Misc 
+590094      Misc 
+======================================================================================
+* Vendors Set 3 * (vendors spawned by mallstone) (.lua heartstone to tele/mallstone)
+======================================================================================
+900000     Tier VII (1) 
+900001     Tier VII (2) 
+900002     Season V 
+900003     Weapons 
+900004     Trinkets 
+900005     Necklace 
+900006     Rings 
+900036     226+ Neck armor 
+900035     226+ Legs armor 
+900034     226+ Held+In+Off-hand armor 
+900033     226+ Head armor 
+900032     226+ Hands armor 
+900031     226+ Finger armor 
+900030     226+ Feet armor 
+900029     226+ Chest armor 
+900028     226+ Back armor 
+900026     Wand Weapon Vendor 
+900025     Thrown Weapon Vendor 
+900024     Sword Weapon Vendor 
+900023     Staff Weapon Vendor 
+900022     Polearm Weapon Vendor 
+900021     Mace Weapon Vendor 
+900020     Gun Weapon Vendor 
+900019     Fist Weapon Vendor 
+900018     Dagger Weapon Vendor 
+900017     Crossbow Weapon Vendor 
+900016     Bow Weapon Vendor 
+900015     Axe Weapon Vendor 
+900014     T8.5 Plate Vendor 
+900013     T8.5 Mail Vendor 
+900012     T8.5 Leather Vendor 
+900011     T8.5 Cloth Vendor 
+900010     T8 Plate Vendor 
+900009     T8 Mail Vendor 
+900008     T8 Leather Vendor 
+900007     T8 Cloth Vendor 
+900037     226+ Off+Hand armor 
+900038     226+ Shirt armor 
+900039     226+ Shoulder armor 
+900040     226+ Tabard armor 
+900041     226+ Trinket armor 
+900042     226+ Waist armor 
+900043     226+ Wrist armor 
+900045     Blue Gem Vendor 
+900046     Meta Gem Vendor 
+900047     Red Gem Vendor 
+900048     Yellow Gem Vendor 
+900049     Shields Vendor 
+900050     Mage Glyph Vendor 
+900051     Hunter Glyph Vendor 
+900052     Paladin Glyph Vendor 
+900053     Death Glyph Vendor 
+900054     Shaman Glyph Vendor 
+900055     Priest Glyph Vendor 
+900056     Druid Glyph Vendor 
+900057     Warlock Glyph Vendor 
+900058     Totem Vendor 
+900059     Sigil Vendor 
+900060     Libram Vendor 
+900061     Idol Vendor 
+900062     Enchantment Scrolls 
+900063     Consumable Vendor 
+900064     Mount Vendor 
+900065     Alchemy mats 
+900066     Blacksmithing mats 
+900067     Enchanting mats 
+900068     Engineering mats 
+900069     Inscription mats 
+900070     Jewelcrafting mats 
+900071     Leatherworking mats 
+900072     Mining mats 
+900073     Skinning mats 
+900074     Tailoring mats 
+900075     Cloth PVP Vendor 
+900076     Idol PVP Vendor 
+900077     Leather PVP Vendor 
+900078     Libram PVP Vendor 
+900079     Mail PVP Vendor 
+900080     Plate PVP Vendor 
+900081     Shield PVP Vendor 
+900082     Sigil PVP Vendor 
+900083     Totem PVP Vendor 
+900084     PvP Weapons 
+900085     Cooking mats 
+900086     First%20Aid mats 
+900087     Fishing mats 
+900088     Bag Vendor 
+900090     Warrior Glyph Vendor 
+900091     Reagent Vendor 
+900092     Food Vendor 
+900093     Head & Shoulder Enchant Vendor 
+900094     Rogue Glyph Vendor 
+900095     Recipe Vendor 
+900096     Schematic Vendor 
+900097     Plans Vendor
+======================================================================================
+* Leveling Mobs NPC * (leveling from lvl 1 - 255) (skills race with lvl 80+up)
+======================================================================================
+88050      Leveling 250-255 mob 
+88049      Leveling 245-250 mob 
+88048      Leveling 240-245 mob 
+88047      Leveling 235-240 mob 
+88046      Leveling 230-235 mob 
+88045      Leveling 225-230 mob 
+88044      Leveling 220-225 mob 
+88043      Leveling 215-220 mob 
+88042      Leveling 210-215 mob 
+88041      Leveling 205-210 mob 
+88040      Leveling 200-205 mob 
+88039      Leveling 195-200 mob 
+88038      Leveling 190-195 mob 
+88037      Leveling 185-190 mob 
+88036      Leveling 180-185 mob 
+88035      Leveling 175-180 mob 
+88034      Leveling 170-175 mob 
+88033      Leveling 165-170 mob 
+88032      Leveling 160-165 mob 
+88031      Leveling 155-160 mob 
+88030      Leveling 150-155 mob 
+88029      Leveling 145-150 mob 
+88028      Leveling 140-145 mob 
+88027      Leveling 135-140 mob 
+88026      Leveling 130-135 mob 
+88025      Leveling 125-130 mob 
+88024      Leveling 120-125 mob 
+88023      Leveling 115-120 mob 
+88022      Leveling 110-115 mob 
+88021      Leveling 105-110 mob 
+88020      Leveling 100-105 mob 
+88019      Leveling 95-100 mob 
+88018      Leveling 90-95 mob 
+88017      Leveling 85-90 mob 
+88016      Leveling 80-85 mob 
+88015      Leveling 75-80 mob 
+88014      Leveling 70-75 mob 
+88013      Leveling 65-70 mob 
+88012      Leveling 60-65 mob 
+88011      Leveling 55-60 mob 
+88010      Leveling 50-55 mob 
+88009      Leveling 45-50 mob 
+88008      Leveling 40-45 mob 
+88007      Leveling 35-40 mob 
+88006      Leveling 30-35 mob 
+88005      Leveling 25-30 mob 
+88004      Leveling 20-25 mob 
+88003      Leveling 15-20 mob 
+88002      Leveling 10-15 mob 
+88001      Leveling 5-10 mob 
+88000      Leveling 1-5 mob 
+======================================================================================
+* GameObjects added core scripts *
+======================================================================================
+61002      Friendporter OBJ
+90022      PvPAnnouncer OBJ
+90010      Runebook OBJ
+901314     Telecopter OBJ
+100102     LvLUP Token OBJ
+======================================================================================
+* Other Fun Addons *
+======================================================================================
+* Thx to Frizzy for making this Season 7
+678900     Season 7
+90000165   Season 7 Cloth Vendor
+90000166   Season 7 Leather Vendor
+90000167   Season 7 Mail Vendor
+90000168   Season 7 Plate Vendor
+======================================================================================
+
+Best regards from - Keazain
+
+Visit www.keazain.dk for updates.

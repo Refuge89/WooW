@@ -1,0 +1,187 @@
+3.2.0 All Skills and Spells
+
+Armor Proficiencies
+.char learn 9078 (cloth)
+.char learn 9077 (leather)
+.char learn 8737 (mail)
+.char learn 750 (plate mail)
+.char learn 9116 (shield)
+
+Weapon Skills
+.char learn 107 (block - passive)
+.char learn 264 (Bows)
+.char learn 5011 (Crossbows)
+.char learn 1180 (Daggers)
+.char learn 204 (Defense)
+.char learn 81 (Dodge - passive)
+.char learn 674 (Dual Wield)
+.char learn 15590 (Fist Weapons)
+.char learn 266 (Guns)
+.char learn 196 (One-Handed Axes)
+.char learn 198 (One-Handed Maces)
+.char learn 201 (One-Handed Swords)
+.char learn 3127 (Parry - passive)
+.char learn 200 (Polearms)
+.char learn 3018 (Shoot - Bows,Crossbows,Guns)
+.char learn 5019 (Shoot - Wand)
+.char learn 227 (Staves)
+.char learn 2764 (Throw - v podstate shoot)
+.char learn 2567 (Thrown - abyste mohli nosit Thrown weapons)
+.char learn 197 (Two-Handed Axes)
+.char learn 199 (Two-Handed Maces)
+.char learn 202 (Two-Handed Swords)
+.char learn 203 (Unarmed)
+.char learn 5009 (Wand)
+
+
+
+Alchemy
+.char learn 2259 (Apprentice)
+.char learn 3101 (Journeyman)
+.char learn 3464 (Expert)
+.char learn 11611 (Artisan)
+.char learn 28596 (Master - ONLY BURNING CRUSADE!)
+.char advanceskill 171 xxx 
+
+Blacksmithing
+.char learn 2018 (Apprentice)
+.char learn 3100 (Journeyman)
+.char learn 3538 (Expert)
+.char learn 9785 (Artisan)
+.char learn 29844 (Master - ONLY BURNING CRUSADE!)
+.char advanceskill 164 xxx
+Armorsmithing (.char learn 9788)
+Weaponsmithing (.char learn 9787) 
+Master Axesmithing (.char learn 17041)
+Master Hammersmithing (.char learn 17040)
+Master Swordsmithing (.char learn 17039)
+
+Enchanting
+.char learn 13262 ( Disenchant)
+.char learn 7411 (Apprentice)
+.char learn 7412 (Journeyman)
+.char learn 7413 (Expert)
+.char learn 13920 (Artisan)
+.char learn 28029 (Master - ONLY BURNING CRUSADE!)
+.char advanceskill 333 xxx 
+
+Engineering
+.char learn 4036 (Apprentice)
+.char learn 4037 (Journeyman)
+.char learn 4038 (Expert)
+.char learn 12656 (Artisan)
+.char learn 30350 (Master - ONLY BURNING CRUSADE!)
+.char advanceskill 202 xxx
+Gnomish (.char learn 20219)
+Goblin (.char learn 20222)
+
+Herbalism
+.char learn 2383 (Finding Herbs)
+.char learn 2366 (Apprentice)
+.char learn 2368 (Journeyman)
+.char learn 3570 (Expert)
+.char learn 11993 (Artisan)
+.char learn 28695 (Master - ONLY BURNING CRUSADE!)
+.char advanceskill 182 xxx
+
+Jewelcrafting (NEW IN BURNING CRUSADE)
+.char learn 31252 (Prospecting)
+.char learn 25229 (Apprentice)
+.char learn 25230 (Journeyman)
+.char learn 28894 (Expert)
+.char learn 28895 (Artisan)
+.char learn 28897 (Master)
+.char advanceskill 755 xxx
+
+Leatherworking
+.char learn 2108 (Apprentice)
+.char learn 3104 (Journeyman)
+.char learn 3811 (Expert)
+.char learn 10662 (Artisan)
+.char learn 32549 (Master - ONLY BURNING CRUSADE!)
+.char advanceskill 165 xxx
+Dragonscale -  mail items (.char learn 10656)
+Elemental - leather items (.char learn 10658)
+Tribal - leather items (.char learn 10660)
+
+Mining
+.char learn 2580 (Find Minerals)
+.char learn 2656 (Smelting)
+.char learn 2575 (Apprentice)
+.char learn 2576 (Journeyman)
+.char learn 3564 (Expert)
+.char learn 10248 (Artisan)
+.char learn 29354 (Master - ONLY BURNING CRUSADE!)
+.char advanceskill 186 xxx
+
+Skinning
+.char learn 8613 (Apprentice)
+.char learn 8617 (Journeyman)
+.char learn 8618 (Expert)
+.char learn 10768 (Artisan)
+.char learn 32678 (Master - ONLY BURNING CRUSADE!)
+.char advanceskill 393 xxx
+
+Tailoring
+.char learn 3908 (Apprentice)
+.char learn 3909 (Journeyman)
+.char learn 3910 (Expert)
+.char learn 12180 (Artisan)
+.char learn 26790 (Master - ONLY BURNING CRUSADE!)
+.char advanceskill 197 xxx
+Mooncloth (.char learn 26798)
+Shadoweave (.char learn 26801)
+Spellfie (.char learn 26797)
+
+_______________
+Seconadary Skills
+¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢
+
+Cooking
+.char learn 2550 (Apprentice)
+.char learn 3102 (Journeyman)
+.char learn 3413 (Expert)
+.char learn 18260 (Artisan)
+.char learn 33359 (Master - ONLY BURNING CRUSADE!)
+.char advanceskill 185 xxx
+
+First Aid
+.char learn 3273 (Apprentice)
+.char learn 3274 (Journeyman)
+.char learn 7924 (Expert)
+.char learn 10846 (Artisan)
+.char learn 27028 (Master - ONLY BURNING CRUSADE!)
+.char advanceskill 129 xxx
+
+Fishing
+.char learn 7620 (Apprentice)
+.char learn 7731 (Journeyman)
+.char learn 7732 (Expert)
+.char learn 18248 (Artisan)
+.char learn 33095 (Master - ONLY BURNING CRUSADE!)
+.char advanceskill 356 xxx
+
+Riding(NEW IN BURNING CRUSADE)
+.char learn 33388 (Apprentice)
+.char learn 33391 (Journeyman)
+.char learn 34090 (Expert)
+.char learn 34091 (Artisan)
+.char advanceskill 762 xxx
+
+
+Languages
+.char learn 668 (Common)
+.char learn 671 (Darnassian)
+.char learn 29932 (Draenei)
+.char learn 672 (Dwarven)
+.char learn 7340 (Gnomish)
+.char learn 17737 (Gutterspeak)
+.char learn 669 (Orcish)
+.char learn 670 (Taurahe)
+.char learn 813 (Thalassian)
+.char learn 7341 (Troll)
+.char learn 814 (Draconic NYI)
+.char learn 817 (Old Tongue NYI)
+.char learn 816 (Titan NYI)
+
+..::(( ×× Made by MesoX ×× ))::..

@@ -1,0 +1,237 @@
+3.2.0 Proffessions
+
+/////////////////////////////Apprentice////////////////////////////////////////
+
+               Cast_Spell                       Learn_Spell
+
+Alchemist 2275                         *2259 Require Skill (171)
+
+Blacksmith 2020                        *2018 Require Skill (164)
+
+Cook 2551                              *2550 Require Skill (185)
+
+                    Basic Campfire 818
+
+Enchanter 7414                         *7411 Require Skill (333) 
+
+                    Disenchant 13262
+
+Engineer 4039                          *4036 Require Skill (202)
+
+First Aid 3279                         *3273 Require Skill (129)
+
+Fishing 7733                           *7620 Require Skill (356)
+
+Herbalist 2372                         *2366 Require Skill (182)
+
+                    Find Herbs 2383
+
+Jewelcrafter 25245                     *25229 Require Skill (755)
+
+                    Prospecting 31252
+
+Leatherworker 2155                     *2108 Require Skill (165)
+
+Miner 2581 or 51377                    *2575 Require Skill (186)
+
+                 Find Minerals 2580
+                 Smelting 2656
+
+Riding 33389                           *33388 Require Skill (762)
+
+Scribe 45375                           *45357 Require Skill (773)
+
+                Milling 51005
+
+Skinner 8615                           *8613 Require Skill (393)
+
+Taylor 3911                            *3908 Require Skill (197)
+
+/////////////////////////////Journeyman ////////////////////////////////////////
+
+Alchemist 2280                         *3101 Require Skill (171)
+
+Blacksmith 2021                        *3100 Require Skill (164)
+
+Cook 3412                              *3102 Require Skill (185)
+
+Enchanter 7415                         *7412 Require Skill (333)
+
+Engineer 4040                          *4037 Require Skill (202)
+
+First Aid 3280                         *3274 Require Skill (129)
+
+Fishing 64485 or 7734                  *7731 Require Skill (356)
+
+Herbalist 2373                         *2368 Require Skill (182)
+
+Jewelcrafter 25246                     *25230 Require Skill (755)
+
+Leatherworker 2154                     *3104 Require Skill (165)
+
+Miner 2582                             *2576 Require Skill (186)
+
+Riding 33392                           *33391 Require Skill (762)
+
+Scribe 45376                           *45358 Require Skill (773)
+
+Skinner 8619                           *8617 Require Skill (393)
+
+Taylor 3912                            *3909 Require Skill (197)
+
+/////////////////////////////Expert ////////////////////////////////////////
+
+Alchemist 3465                         *3464 Require Skill (171)
+
+Blacksmith 3539                        *3538 Require Skill (164)
+
+Cook 19886 or 54257                    *3413 Require Skill (185)
+
+Enchanter 7416                         *7413 Require Skill (333)
+
+Engineer 4041                          *4038 Require Skill (202)
+
+First Aid 19903 or 54254               *7924 Require Skill (129)
+
+Fishing 19889 or 54083                 *7732 Require Skill (356)
+
+Herbalist 3571                         *3570 Require Skill (182)
+
+Jewelcrafter 28896                     *28894 Require Skill (755)
+
+Leatherworker 3812                     *3811 Require Skill (165)
+
+Miner 3568                             *3564 Require Skill (186)
+
+Riding 34092                           *34090 Require Skill (762)
+
+              Cold weather flying 54197
+
+Scribe 45377                           *45359 Require Skill (773)
+
+Skinner 8620                           *8618 Require Skill (393)
+
+Taylor 3913                            *3910 Require Skill (197)
+
+/////////////////////////////Artisan ////////////////////////////////////////
+
+alchemist 11612                        *11611 Require Skill (171)
+
+blacksmith 9786                        *9785 Require Skill (164)
+
+cook 18261 or 19887                    *18260 Require Skill (185)
+
+Enchanter 13921                        *13920 Require Skill (333)
+
+Engineer 12657                         *12656 Require Skill (202)
+
+First Aid 10847 or 19902               *10846 Require Skill (129)
+
+Fishing 18249 or 19890                 *18248 Require Skill (356)
+
+Herbalist 11994                        *11993 Require Skill (182)
+
+Jewelcrafter 28899                     *28895 Require Skill (755)
+
+Leatherworker 10663                    *10662 Require Skill (165)
+
+Miner 10249                            *10248 Require Skill (186)
+
+Riding 34093                           *34091 Require Skill (762)
+
+Scribe 45378                           *45360 Require Skill (773)
+
+Skinner 10769                          *10768 Require Skill (393)
+
+Taylor 12181                           *12180 Require Skill (197)
+
+/////////////////////////////Master ////////////////////////////////////////
+
+alchemist 28597                        *28596 Require Skill (171)                     
+Blacksmith 29845                       *29844 Require Skill (164)
+
+Cook 33361 or 54256                    *33359 Require Skill (185)
+
+Enchanter 28030                        *28029 Require Skill (333)
+
+Engineer 30351                         *30350 Require Skill (202)
+
+First Aid 27029 or 54255               *27028 Require Skill (129)
+
+Fishing 33100 or 54084                 *33095 Require Skill (356)
+
+Herbalist 28696                        *28695 Require Skill (182)
+
+Jewelcrafter 28901                     *28897 Require Skill (755)
+
+Leatherworker 32550                    *32549 Require Skill (165)
+
+Miner 29355                            *29354 Require Skill (186)
+
+Scribe 45379                           *45361 Require Skill (773)
+
+Skinner 32679                          *32678 Require Skill (393)
+
+Taylor 26791                           *26790 Require Skill (197)
+
+*potion 28676                          *28675
+
+*transmutation 28674                   *28672
+
+*elixir 28678                          *28677
+
+*Armorsmith 9790                       *9788
+
+*Weaponsmith 9789                      *9787
+
+*Swordsmith 39097                      *17039
+
+*Axesmith 39098                        *17041
+
+*Hammersmith 39099                     *17040
+
+*Gnomish 20220                         *20219
+
+*Goblin 20221                          *20222
+
+*Mooncloth 26799                       *26798
+
+*Shadoweave 26800                      *26801
+
+*Spellfire 26796                       *26797
+
+*Dragonscale 10657                     *10656
+
+*Elemental 10659                       *10658
+
+*Tribal 10661                          *10660                     
+
+/////////////////////////////Grand Master ////////////////////////////////////////
+
+Alchemist 51303                        *51304 Require Skill (171)
+
+Blacksmith 51298                       *51300 Require Skill (164)
+
+Cook 51295                             *51296 Require Skill (185)
+
+Enchanter 51312                        *51313 Require Skill (333)
+
+Engineer 51305                         *51306 Require Skill (202)
+
+First Aid 50299                        *45542 Require Skill (129)
+
+Fishing 64484 or 51293                 *51294 Require Skill (356)
+
+Herbalist 50301                        *50300 Require Skill (182)
+
+Jewelcrafter 51310                     *51311 Require Skill (755)
+
+Leatherworker 51301                    *51302 Require Skill (165)
+
+Miner 50309                            *50310 Require Skill (186)
+
+Scribe 45380                           *45363 Require Skill (773)
+
+Skinner 50307                          *50305 Require Skill (393)
+
+Taylor 51308                           *51309 Require Skill (197)
